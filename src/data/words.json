@@ -1,0 +1,1204 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "serendipità",
+      "definition": "La fortuna di fare piacevoli scoperte per puro caso",
+      "distractors": [
+        "Profondo sentimento di malinconia senza causa apparente",
+        "Capacità di adattarsi con grazia ai cambiamenti improvvisi",
+        "Ossessione per oggetti o luoghi del passato"
+      ]
+    },
+    {
+      "id": 2,
+      "word": "abulia",
+      "definition": "Incapacità patologica di prendere decisioni e mancanza totale di volontà",
+      "distractors": [
+        "Eccessiva tendenza a parlare di sé stessi",
+        "Avversione irrazionale per i luoghi aperti",
+        "Stato di euforia improvvisa e ingiustificata"
+      ]
+    },
+    {
+      "id": 3,
+      "word": "accidia",
+      "definition": "Apatia spirituale e pigrizia dell'animo, uno dei sette vizi capitali",
+      "distractors": [
+        "Eccesso di zelo e di attività frenetica",
+        "Tendenza a ingigantire i propri successi",
+        "Malinconia causata dalla lontananza dalla propria terra"
+      ]
+    },
+    {
+      "id": 4,
+      "word": "anfibologia",
+      "definition": "Ambiguità di un'espressione che può essere interpretata in più modi",
+      "distractors": [
+        "Uso esagerato di metafore nel linguaggio poetico",
+        "Incapacità di comprendere il linguaggio scritto",
+        "Ripetizione insistente degli stessi concetti in un discorso"
+      ]
+    },
+    {
+      "id": 5,
+      "word": "atarassia",
+      "definition": "Stato di perfetta imperturbabilità e serenità dell'animo",
+      "distractors": [
+        "Agitazione interiore causata da conflitti irrisolti",
+        "Tendenza a trarre piacere dalle disgrazie altrui",
+        "Incapacità di provare emozioni intense"
+      ]
+    },
+    {
+      "id": 6,
+      "word": "atavismo",
+      "definition": "Ricomparsa di caratteri fisici o comportamentali propri di lontani antenati",
+      "distractors": [
+        "Adorazione esasperata delle tradizioni moderne",
+        "Processo di adattamento rapido a nuovi ambienti",
+        "Trasmissione di saperi artigianali da maestro ad allievo"
+      ]
+    },
+    {
+      "id": 7,
+      "word": "battologia",
+      "definition": "Ripetizione inutile e tediosa degli stessi concetti o parole",
+      "distractors": [
+        "Arte di costruire discorsi sintetici ed efficaci",
+        "Studio delle varianti dialettali di una lingua",
+        "Figura retorica che enfatizza un concetto tramite l'ironia"
+      ]
+    },
+    {
+      "id": 8,
+      "word": "catarsi",
+      "definition": "Purificazione emotiva e liberazione interiore che si prova attraverso l'arte",
+      "distractors": [
+        "Analisi critica di un testo letterario o teatrale",
+        "Tecnica di memorizzazione usata dagli attori",
+        "Effetto di straniamento prodotto da un'opera d'avanguardia"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "chiasmo",
+      "definition": "Figura retorica con struttura speculare incrociata del tipo AB-BA",
+      "distractors": [
+        "Ripetizione della stessa parola in posizione enfatica",
+        "Accostamento di due termini di significato opposto",
+        "Sostituzione di un termine concreto con uno astratto"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "desueto",
+      "definition": "Caduto completamente in disuso, non più utilizzato né praticato",
+      "distractors": [
+        "Di moda recente, introdotto da poco nel costume comune",
+        "Tipico di una regione geografica specifica",
+        "Ereditato dalla tradizione classica greca o latina"
+      ]
+    },
+    {
+      "id": 11,
+      "word": "elucubrare",
+      "definition": "Elaborare con fatica e complessità eccessiva teorie astruse e contorte",
+      "distractors": [
+        "Esprimere pensieri con straordinaria chiarezza e semplicità",
+        "Raccogliere dati empirici per verificare un'ipotesi scientifica",
+        "Sintetizzare concetti complessi in formule intuitive"
+      ]
+    },
+    {
+      "id": 12,
+      "word": "ermeneutica",
+      "definition": "Arte e disciplina dell'interpretazione approfondita dei testi",
+      "distractors": [
+        "Studio dell'evoluzione fonetica delle lingue antiche",
+        "Tecnica di composizione dei testi in metrica latina",
+        "Catalogo sistematico delle opere di un autore"
+      ]
+    },
+    {
+      "id": 13,
+      "word": "farneticare",
+      "definition": "Parlare in modo delirante e privo di senso, vaneggiare",
+      "distractors": [
+        "Ragionare con lucidità e rigore logico su temi astratti",
+        "Raccontare storie fantastiche con abilità narrativa",
+        "Esprimere proteste vibrate e motivate contro un torto subito"
+      ]
+    },
+    {
+      "id": 14,
+      "word": "glossolalia",
+      "definition": "Fenomeno del parlare in lingue sconosciute o incomprensibili, tipico di stati estatici",
+      "distractors": [
+        "Studio comparativo dei vocabolari di lingue diverse",
+        "Tecnica di apprendimento rapido delle lingue straniere",
+        "Incapacità di articolare correttamente i suoni del linguaggio"
+      ]
+    },
+    {
+      "id": 15,
+      "word": "hapax",
+      "definition": "Parola o espressione attestata una sola volta nell'intero corpus di una lingua",
+      "distractors": [
+        "Parola che ha assunto significati opposti nel corso del tempo",
+        "Termine tecnico usato esclusivamente in ambito scientifico",
+        "Vocabolo entrato in una lingua per prestito da un'altra"
+      ]
+    },
+    {
+      "id": 16,
+      "word": "icastico",
+      "definition": "Che rappresenta o esprime qualcosa con grande efficacia e immediatezza visiva",
+      "distractors": [
+        "Che appartiene alla tradizione iconografica medievale",
+        "Che privilegia l'astrazione rispetto alla rappresentazione concreta",
+        "Che utilizza simboli di difficile decifrazione"
+      ]
+    },
+    {
+      "id": 17,
+      "word": "iconoclasta",
+      "definition": "Chi distrugge immagini sacre o contesta radicalmente le tradizioni consolidate",
+      "distractors": [
+        "Studioso specializzato nell'analisi delle immagini religiose",
+        "Artista che si dedica alla creazione di icone sacre",
+        "Fedele che venera con particolare devozione le immagini sacre"
+      ]
+    },
+    {
+      "id": 18,
+      "word": "ipallage",
+      "definition": "Figura retorica che trasferisce un attributo dal suo sostantivo naturale a un altro",
+      "distractors": [
+        "Sostituzione di un'intera frase con una sola parola equivalente",
+        "Ripetizione dello stesso suono in posizioni simmetriche",
+        "Uso di un termine greco in un testo latino"
+      ]
+    },
+    {
+      "id": 19,
+      "word": "latebra",
+      "definition": "Nascondiglio segreto e appartato, luogo di rifugio isolato",
+      "distractors": [
+        "Parte più esposta e visibile di un edificio antico",
+        "Spazio sacro riservato alle cerimonie religiose",
+        "Corridoio di collegamento tra due edifici"
+      ]
+    },
+    {
+      "id": 20,
+      "word": "litote",
+      "definition": "Figura retorica che afferma qualcosa attenuandola o negandone il contrario",
+      "distractors": [
+        "Esagerazione vistosa usata per amplificare un concetto",
+        "Paragone esplicito tra due elementi usando «come» o «simile a»",
+        "Interruzione improvvisa del discorso lasciato in sospeso"
+      ]
+    },
+    {
+      "id": 21,
+      "word": "logomachia",
+      "definition": "Disputa verbale sterile basata su giochi di parole privi di sostanza reale",
+      "distractors": [
+        "Studio dell'origine e dell'evoluzione delle parole",
+        "Arte di costruire slogan efficaci per la pubblicità",
+        "Tecnica di convincimento basata sulla ripetizione dei termini chiave"
+      ]
+    },
+    {
+      "id": 22,
+      "word": "magniloquenza",
+      "definition": "Stile pomposo e enfatico, uso esagerato di parole solenni e ridondanti",
+      "distractors": [
+        "Capacità di esprimersi con straordinaria concisione ed efficacia",
+        "Dono di saper parlare in pubblico con naturalezza e spontaneità",
+        "Abilità nel trovare le parole giuste nei momenti difficili"
+      ]
+    },
+    {
+      "id": 23,
+      "word": "mefitico",
+      "definition": "Che emana vapori tossici o odori pestilenziali, irrespirabile",
+      "distractors": [
+        "Che possiede proprietà curative e benefiche per l'organismo",
+        "Che produce rumori acuti e fastidiosi per l'udito",
+        "Che emette luce intensa e accecante nell'oscurità"
+      ]
+    },
+    {
+      "id": 24,
+      "word": "nefando",
+      "definition": "Così malvagio e abominevole da non poter essere nemmeno nominato",
+      "distractors": [
+        "Di grande valore morale e degno di essere celebrato",
+        "Privo di importanza e di conseguenze pratiche",
+        "Ambiguo e di difficile classificazione morale"
+      ]
+    },
+    {
+      "id": 25,
+      "word": "nitore",
+      "definition": "Chiarezza cristallina ed eleganza raffinata nello stile letterario",
+      "distractors": [
+        "Oscurità voluta e complessità ricercata nel testo",
+        "Abbondanza di immagini poetiche e di metafore ardite",
+        "Semplicità popolare e spontaneità del linguaggio comune"
+      ]
+    },
+    {
+      "id": 26,
+      "word": "obnubilare",
+      "definition": "Offuscare e oscurare la mente, la coscienza o la vista",
+      "distractors": [
+        "Illuminare e chiarire un concetto rimasto oscuro",
+        "Stimolare l'intelletto con domande e riflessioni profonde",
+        "Risvegliare la memoria di eventi dimenticati"
+      ]
+    },
+    {
+      "id": 27,
+      "word": "olezzo",
+      "definition": "Odore intenso e penetrante, spesso sgradevole e persistente",
+      "distractors": [
+        "Sapore aspro e pungente che rimane in bocca",
+        "Colore brillante che cattura immediatamente l'attenzione",
+        "Suono acuto e discontinuo udito in lontananza"
+      ]
+    },
+    {
+      "id": 28,
+      "word": "palingenesi",
+      "definition": "Rinascita totale e rigenerazione profonda, spirituale o politica",
+      "distractors": [
+        "Trasmissione dei caratteri genetici da genitore a figlio",
+        "Processo di graduale deterioramento e declino inevitabile",
+        "Recupero della memoria di vite precedenti attraverso la meditazione"
+      ]
+    },
+    {
+      "id": 29,
+      "word": "palinsesto",
+      "definition": "Manoscritto su pergamena raschiata e riscritta sopra un testo precedente",
+      "distractors": [
+        "Raccolta di testi sacri ordinati per argomento",
+        "Catalogo illustrato di miniature medievali",
+        "Indice analitico posto in appendice a un'opera letteraria"
+      ]
+    },
+    {
+      "id": 30,
+      "word": "parenesi",
+      "definition": "Esortazione morale e ammonimento edificante rivolto a qualcuno",
+      "distractors": [
+        "Critica severa e pubblica delle azioni di un personaggio famoso",
+        "Descrizione dettagliata dei costumi di un popolo antico",
+        "Racconto delle origini mitiche di una città o di un popolo"
+      ]
+    },
+    {
+      "id": 31,
+      "word": "peripetia",
+      "definition": "Improvviso e drammatico rovesciamento della sorte in un'opera narrativa",
+      "distractors": [
+        "Descrizione minuziosa dell'ambiente fisico in cui si svolge la vicenda",
+        "Momento di riflessione del protagonista prima della scelta decisiva",
+        "Incontro casuale tra due personaggi che cambierà le loro vite"
+      ]
+    },
+    {
+      "id": 32,
+      "word": "pleonasmo",
+      "definition": "Uso di parole sovrabbondanti che non aggiungono alcun significato nuovo",
+      "distractors": [
+        "Omissione intenzionale di parole necessarie alla comprensione",
+        "Sostituzione di un termine tecnico con uno di uso comune",
+        "Accumulazione di sinonimi per amplificare il significato"
+      ]
+    },
+    {
+      "id": 33,
+      "word": "pletorico",
+      "definition": "Eccessivamente abbondante, sovrabbondante fino all'eccesso fastidioso",
+      "distractors": [
+        "Rigorosamente essenziale e privo di qualsiasi ridondanza",
+        "Arricchito da apporti provenienti da diverse tradizioni culturali",
+        "Caratterizzato da una distribuzione equilibrata delle parti"
+      ]
+    },
+    {
+      "id": 34,
+      "word": "protervia",
+      "definition": "Arroganza impudente e sfrontata, insolenza ostentata senza vergogna",
+      "distractors": [
+        "Timidezza eccessiva che impedisce di esprimere la propria opinione",
+        "Generosità spontanea verso chi si trova in difficoltà",
+        "Coraggio tranquillo di chi affronta i pericoli senza esibizionismo"
+      ]
+    },
+    {
+      "id": 35,
+      "word": "pusillanimità",
+      "definition": "Mancanza di coraggio e di fermezza morale, timidezza d'animo",
+      "distractors": [
+        "Eccesso di sicurezza che porta a sottovalutare i pericoli",
+        "Tendenza a prendere decisioni senza consultare gli altri",
+        "Capacità di sopportare le avversità con stoica indifferenza"
+      ]
+    },
+    {
+      "id": 36,
+      "word": "querimonia",
+      "definition": "Lamentela insistente e continua, lagno persistente e noioso",
+      "distractors": [
+        "Elogio entusiastico e ripetuto delle qualità di qualcuno",
+        "Richiesta formale presentata a un'autorità competente",
+        "Discussione animata su questioni di principio etico"
+      ]
+    },
+    {
+      "id": 37,
+      "word": "querulo",
+      "definition": "Che si lamenta in modo continuo e piagnucoloso per ogni piccola cosa",
+      "distractors": [
+        "Che osserva il mondo con distacco e ironica leggerezza",
+        "Che esprime giudizi netti e sicuri senza tentennamenti",
+        "Che affronta le difficoltà con spirito positivo e resiliente"
+      ]
+    },
+    {
+      "id": 38,
+      "word": "ramingo",
+      "definition": "Che erra senza meta né dimora, senza una casa o una patria",
+      "distractors": [
+        "Che vive ritirato in un luogo fisso lontano dal mondo",
+        "Che ritorna sempre al proprio luogo d'origine dopo lunghi viaggi",
+        "Che cambia opinione continuamente senza un filo conduttore"
+      ]
+    },
+    {
+      "id": 39,
+      "word": "sibillino",
+      "definition": "Oscuro e misterioso, di difficile interpretazione come i vaticini della Sibilla",
+      "distractors": [
+        "Chiaro e diretto come una norma di legge ben formulata",
+        "Ironico e pungente come le satire dei poeti latini",
+        "Solenne e formale come i testi della liturgia religiosa"
+      ]
+    },
+    {
+      "id": 40,
+      "word": "sineddoche",
+      "definition": "Figura retorica che usa la parte per il tutto o il tutto per la parte",
+      "distractors": [
+        "Ripetizione della stessa parola con funzione enfatica",
+        "Personificazione di elementi astratti o della natura",
+        "Paragone implicito senza l'uso di termini comparativi"
+      ]
+    },
+    {
+      "id": 41,
+      "word": "solecismo",
+      "definition": "Errore grammaticale o sintattico nell'uso di una lingua",
+      "distractors": [
+        "Termine tecnico entrato nel linguaggio comune per estensione",
+        "Arcaismo conservato deliberatamente per effetto stilistico",
+        "Prestito da una lingua straniera adattato alla fonetica locale"
+      ]
+    },
+    {
+      "id": 42,
+      "word": "tautologia",
+      "definition": "Ripetizione inutile dello stesso concetto con parole diverse senza aggiungere nulla",
+      "distractors": [
+        "Contraddizione logica in cui una premessa nega la conclusione",
+        "Definizione circolare in cui il termine è spiegato da se stesso",
+        "Affermazione talmente ovvia da non richiedere dimostrazione"
+      ]
+    },
+    {
+      "id": 43,
+      "word": "tracotanza",
+      "definition": "Arroganza eccessiva e presunzione smisurata, superbia oltre ogni limite",
+      "distractors": [
+        "Umiltà autentica e sincera che si manifesta nei gesti quotidiani",
+        "Prudenza eccessiva che porta all'immobilismo e all'indecisione",
+        "Entusiasmo irrefrenabile per le proprie idee e i propri progetti"
+      ]
+    },
+    {
+      "id": 44,
+      "word": "turgido",
+      "definition": "Gonfio e rigido; detto di stile, ampolloso e ridondante fino al ridicolo",
+      "distractors": [
+        "Nitido e asciutto, depurato da qualsiasi ornamento superfluo",
+        "Frammentato e discontinuo come un testo scritto in fretta",
+        "Melodioso e fluente, piacevole all'orecchio come la musica"
+      ]
+    },
+    {
+      "id": 45,
+      "word": "veneficio",
+      "definition": "L'arte di preparare e somministrare veleni, o l'atto stesso dell'avvelenamento",
+      "distractors": [
+        "Pratica di guarigione tramite l'uso di erbe e rimedi naturali",
+        "Tecnica di concia delle pelli usando sostanze chimiche",
+        "Produzione di vini pregiati attraverso procedimenti artigianali"
+      ]
+    },
+    {
+      "id": 46,
+      "word": "zeugma",
+      "definition": "Figura retorica che collega elementi grammaticalmente eterogenei con un solo verbo",
+      "distractors": [
+        "Figura che sostituisce il nome di una cosa con quello di un'altra contigua",
+        "Ripetizione di una parola all'inizio di più frasi o versi consecutivi",
+        "Enumerazione caotica di elementi senza nesso apparente"
+      ]
+    },
+    {
+      "id": 47,
+      "word": "anastrofe",
+      "definition": "Inversione dell'ordine normale e atteso delle parole nella frase",
+      "distractors": [
+        "Cancellazione deliberata di una parte del testo per creare suspense",
+        "Ripresa di un tema già trattato con variazioni e sviluppi nuovi",
+        "Inserimento di una frase esplicativa all'interno di un'altra"
+      ]
+    },
+    {
+      "id": 48,
+      "word": "anagnorisi",
+      "definition": "Momento drammatico di riconoscimento dell'identità vera di un personaggio",
+      "distractors": [
+        "Elaborazione del lutto da parte di un personaggio che ha perso qualcuno",
+        "Scena di addio tra due personaggi destinati a non rivedersi",
+        "Ritorno trionfale del protagonista dopo lunghe peripezie"
+      ]
+    },
+    {
+      "id": 49,
+      "word": "apoftegma",
+      "definition": "Massima breve, sentenziosa e memorabile attribuita a un personaggio illustre",
+      "distractors": [
+        "Lungo discorso filosofico su questioni di etica e morale",
+        "Raccolta di aneddoti sulla vita privata dei grandi uomini",
+        "Profezia oscura e ambigua su eventi futuri"
+      ]
+    },
+    {
+      "id": 50,
+      "word": "diatesi",
+      "definition": "Predisposizione costituzionale dell'organismo verso determinate malattie o stati",
+      "distractors": [
+        "Processo di diagnosi basato sull'analisi dei sintomi visibili",
+        "Reazione immunitaria dell'organismo a un agente esterno",
+        "Categoria grammaticale che indica il rapporto tra soggetto e azione"
+      ]
+    },
+    {
+      "id": 51,
+      "word": "episteme",
+      "definition": "L'insieme organizzato delle conoscenze scientifiche proprie di un'epoca storica",
+      "distractors": [
+        "Il complesso delle credenze religiose di una comunità primitiva",
+        "Il sistema di valori etici condiviso da una civiltà",
+        "La tradizione orale trasmessa di generazione in generazione"
+      ]
+    },
+    {
+      "id": 52,
+      "word": "fatuità",
+      "definition": "Superficialità e frivolezza, vacuità di chi si preoccupa solo delle apparenze",
+      "distractors": [
+        "Gravità eccessiva e pesantezza nel trattare argomenti leggeri",
+        "Incapacità di cogliere il lato comico delle situazioni",
+        "Ossessione per la propria perfezione morale e intellettuale"
+      ]
+    },
+    {
+      "id": 53,
+      "word": "lezioso",
+      "definition": "Affettato e manierato, di grazia studiata ed eccessivamente ricercata",
+      "distractors": [
+        "Spontaneo e naturale, del tutto privo di artificio e di posa",
+        "Rozzo e grezzo, privo di qualsiasi raffinatezza formale",
+        "Solenne e austero come i riti di una cerimonia ufficiale"
+      ]
+    },
+    {
+      "id": 54,
+      "word": "liminale",
+      "definition": "Che si trova sulla soglia, in uno stato di transizione tra due condizioni diverse",
+      "distractors": [
+        "Che appartiene stabilmente a una categoria ben definita e riconosciuta",
+        "Che ha raggiunto il massimo grado di sviluppo possibile",
+        "Che si manifesta solo in condizioni estreme e straordinarie"
+      ]
+    },
+    {
+      "id": 55,
+      "word": "mendace",
+      "definition": "Che mente con abitudine e consapevolezza, bugiardo incallito",
+      "distractors": [
+        "Che dice sempre la verità anche quando è scomoda",
+        "Che evita accuratamente qualsiasi affermazione definitiva",
+        "Che riporta fatti altrui senza aggiungere commenti personali"
+      ]
+    },
+    {
+      "id": 56,
+      "word": "millantare",
+      "definition": "Vantarsi di qualità, meriti o imprese false o grossolanamente esagerate",
+      "distractors": [
+        "Ammettere con onestà i propri limiti e le proprie mancanze",
+        "Descrivere con precisione le proprie esperienze senza enfasi",
+        "Elogiare le qualità altrui per ottenerne la simpatia"
+      ]
+    },
+    {
+      "id": 57,
+      "word": "nugatorio",
+      "definition": "Privo di qualsiasi valore o importanza, del tutto futile e insignificante",
+      "distractors": [
+        "Di fondamentale importanza per la comprensione dell'insieme",
+        "Che produce effetti imprevedibili e difficili da controllare",
+        "Che appartiene a una tradizione consolidata e rispettata"
+      ]
+    },
+    {
+      "id": 58,
+      "word": "pedissequo",
+      "definition": "Che segue servilmente e senza alcuna originalità o spirito critico",
+      "distractors": [
+        "Che si discosta sistematicamente dai modelli stabiliti",
+        "Che sa adattare i modelli tradizionali ai contesti contemporanei",
+        "Che anticipa le tendenze prima che diventino dominanti"
+      ]
+    },
+    {
+      "id": 59,
+      "word": "pindarico",
+      "definition": "Detto di volo o salto: improvviso e ardito passaggio da un argomento all'altro",
+      "distractors": [
+        "Detto di ritmo: lento e solenne, adatto a cerimonie ufficiali",
+        "Detto di stile: semplice e popolare, comprensibile a tutti",
+        "Detto di metro: regolare e misurato come l'endecasillabo classico"
+      ]
+    },
+    {
+      "id": 60,
+      "word": "aporia",
+      "definition": "Difficoltà logica insuperabile o contraddizione apparentemente insolubile",
+      "distractors": [
+        "Soluzione elegante e inaspettata a un problema complesso",
+        "Ragionamento circolare che ritorna sempre al punto di partenza",
+        "Domanda retorica a cui non si attende risposta"
+      ]
+    },
+    {
+      "id": 61,
+      "word": "eufemismo",
+      "definition": "Espressione più delicata usata per attenuare un concetto crudo o sgradevole",
+      "distractors": [
+        "Parola straniera usata per snobismo al posto di quella italiana",
+        "Termine tecnico che sostituisce il nome comune per precisione",
+        "Espressione ironica che dice il contrario di ciò che pensa"
+      ]
+    },
+    {
+      "id": 62,
+      "word": "tronfio",
+      "definition": "Gonfio di vanità e di amor proprio, spudoratamente pieno di sé",
+      "distractors": [
+        "Timido e riservato, incapace di parlare in pubblico",
+        "Allegro e spensierato, sempre pronto alla battuta",
+        "Riflessivo e taciturno, poco incline a mettersi in mostra"
+      ]
+    },
+    {
+      "id": 63,
+      "word": "ampolloso",
+      "definition": "Di stile gonfio e artificioso, pieno di vuote pomposità e di frasi ridondanti",
+      "distractors": [
+        "Di stile asciutto ed essenziale, privo di qualsiasi ornamento",
+        "Di stile ironico e distaccato, ricco di allusioni colte",
+        "Di stile volutamente arcaico per evocare un'epoca passata"
+      ]
+    },
+    {
+      "id": 64,
+      "word": "paremiologia",
+      "definition": "Studio scientifico e raccolta sistematica dei proverbi e dei detti popolari",
+      "distractors": [
+        "Arte di comporre iscrizioni commemorative e lapidarie",
+        "Disciplina che analizza le strutture narrative dei miti",
+        "Scienza che studia l'etimologia delle parole dialettali"
+      ]
+    },
+    {
+      "id": 65,
+      "word": "parossismo",
+      "definition": "Il punto di massima intensità e acuzie di un sentimento o di un fenomeno",
+      "distractors": [
+        "La fase iniziale in cui un sentimento comincia a manifestarsi",
+        "L'alternanza ritmica tra stati opposti di eccitazione e calma",
+        "La graduale attenuazione di un'emozione intensa nel tempo"
+      ]
+    },
+    {
+      "id": 66,
+      "word": "disamina",
+      "definition": "Esame attento, minuzioso e approfondito di qualcosa in tutti i suoi aspetti",
+      "distractors": [
+        "Sintesi rapida dei punti principali di un argomento complesso",
+        "Sguardo distaccato e privo di coinvolgimento emotivo",
+        "Giudizio affrettato basato su impressioni superficiali"
+      ]
+    },
+    {
+      "id": 67,
+      "word": "casuistica",
+      "definition": "Analisi di casi particolari concreti per ricavarne principi generali applicabili",
+      "distractors": [
+        "Studio delle cause prime e delle origini di un fenomeno",
+        "Raccolta di sentenze giuridiche contradditorie nel tempo",
+        "Metodo di ragionamento che parte dal generale per giungere al particolare"
+      ]
+    },
+    {
+      "id": 68,
+      "word": "catacresi",
+      "definition": "Uso di un termine in senso diverso dall'originale per necessità, non per scelta",
+      "distractors": [
+        "Creazione di parole nuove per denominare concetti inediti",
+        "Recupero intenzionale di termini arcaici in un testo moderno",
+        "Uso deliberatamente scorretto di un termine a scopo comico"
+      ]
+    },
+    {
+      "id": 69,
+      "word": "antonomasia",
+      "definition": "Uso di un nome proprio per indicare un'intera categoria di persone simili",
+      "distractors": [
+        "Sostituzione del nome di qualcuno con un titolo onorifico",
+        "Uso ironico di un elogio per esprimere una critica",
+        "Omissione del nome dell'autore per creare un effetto di anonimato"
+      ]
+    },
+    {
+      "id": 70,
+      "word": "epanadiplosi",
+      "definition": "Figura retorica in cui un'unità testuale inizia e termina con la stessa parola",
+      "distractors": [
+        "Ripresa di un tema musicale nella parte conclusiva di un'opera",
+        "Accumulazione progressiva di dettagli verso un climax finale",
+        "Chiusura circolare di un racconto che torna al punto di partenza"
+      ]
+    },
+    {
+      "id": 71,
+      "word": "encomio",
+      "definition": "Discorso o testo in lode e celebrazione delle virtù di una persona",
+      "distractors": [
+        "Critica arguta e pungente rivolta a un personaggio pubblico",
+        "Elenco ufficiale dei meriti acquisiti nel corso della carriera",
+        "Dichiarazione solenne di intenti e di principi fondamentali"
+      ]
+    },
+    {
+      "id": 72,
+      "word": "escatologia",
+      "definition": "Dottrina religiosa o filosofica che studia i destini ultimi dell'umanità",
+      "distractors": [
+        "Studio della formazione e dell'evoluzione delle religioni primitive",
+        "Disciplina che analizza i riti di passaggio nelle società umane",
+        "Teoria sull'origine dell'universo basata su testi sacri"
+      ]
+    },
+    {
+      "id": 73,
+      "word": "iperbato",
+      "definition": "Forte inversione dell'ordine sintattico normale per effetto espressivo",
+      "distractors": [
+        "Ripetizione ossessiva della stessa struttura grammaticale",
+        "Interruzione del filo del discorso con una riflessione secondaria",
+        "Elisione di parole facilmente ricavabili dal contesto"
+      ]
+    },
+    {
+      "id": 74,
+      "word": "mnemotecnica",
+      "definition": "Insieme di tecniche e procedimenti per potenziare e allenare la memoria",
+      "distractors": [
+        "Studio delle patologie che colpiscono le facoltà mnemoniche",
+        "Disciplina che analizza i sogni come tracce della memoria inconscia",
+        "Metodo di apprendimento basato sulla ripetizione meccanica"
+      ]
+    },
+    {
+      "id": 75,
+      "word": "neologismo",
+      "definition": "Parola o espressione di nuova creazione entrata recentemente in una lingua",
+      "distractors": [
+        "Termine antico recuperato dopo un lungo periodo di disuso",
+        "Vocabolo tecnico usato solo da esperti di un settore specifico",
+        "Parola che ha cambiato radicalmente significato nel corso dei secoli"
+      ]
+    },
+    {
+      "id": 76,
+      "word": "lapalissiano",
+      "definition": "Talmente ovvio da essere quasi ridicolo da affermare, di evidenza banale",
+      "distractors": [
+        "Oscuro e incomprensibile, che richiede una lunga spiegazione",
+        "Contraddittorio in modo evidente, che si smentisce da solo",
+        "Di origine geografica precisa e ben documentata dagli storici"
+      ]
+    },
+    {
+      "id": 77,
+      "word": "pilatesco",
+      "definition": "Di chi si lava le mani delle proprie responsabilità, scaricando la colpa su altri",
+      "distractors": [
+        "Di chi affronta con coraggio decisioni difficili e impopolari",
+        "Di chi giudica con rigore eccessivo e senza pietà",
+        "Di chi rimanda continuamente le decisioni per paura delle conseguenze"
+      ]
+    },
+    {
+      "id": 78,
+      "word": "pantagruelico",
+      "definition": "Di pasto o banchetto di proporzioni enormi e smisurate, da gigante",
+      "distractors": [
+        "Di cibo raffinato e di alta cucina, preparato con cura estrema",
+        "Di appetito assente o ridottissimo, tipico di chi è molto assorto",
+        "Di dieta rigida e parsimoniosa, basata su pochi alimenti semplici"
+      ]
+    },
+    {
+      "id": 79,
+      "word": "sisifico",
+      "definition": "Di fatica inutile e interminabile, condannata a ripetersi eternamente senza risultato",
+      "distractors": [
+        "Di impresa eroica portata a termine nonostante le avversità",
+        "Di lavoro metodico e paziente che alla fine dà i suoi frutti",
+        "Di sforzo collettivo che richiede la collaborazione di molte persone"
+      ]
+    },
+    {
+      "id": 80,
+      "word": "tantalico",
+      "definition": "Di desiderio o obiettivo sempre vicino ma irraggiungibile, che tormenta chi lo brama",
+      "distractors": [
+        "Di soddisfazione piena e completa ottenuta dopo lunga attesa",
+        "Di piacere effimero che svanisce subito dopo essere stato raggiunto",
+        "Di ambizione smodata che porta alla rovina del protagonista"
+      ]
+    },
+    {
+      "id": 81,
+      "word": "donchisciottesco",
+      "definition": "Di chi insegue ideali nobili ma irrealizzabili, combattendo battaglie immaginarie",
+      "distractors": [
+        "Di chi rinuncia ai propri ideali per adattarsi alla realtà",
+        "Di chi agisce con cinico pragmatismo senza farsi illusioni",
+        "Di chi persegue obiettivi concreti e misurabili con metodo"
+      ]
+    },
+    {
+      "id": 82,
+      "word": "kafkiano",
+      "definition": "Di situazione assurda, burocratica e oppressiva, da cui sembra impossibile uscire",
+      "distractors": [
+        "Di atmosfera onirica e surreale, piacevole e senza logica apparente",
+        "Di sistema efficiente e razionale fino all'eccesso di rigidità",
+        "Di realtà distorta dalla percezione soggettiva di un artista"
+      ]
+    },
+    {
+      "id": 83,
+      "word": "machiavellico",
+      "definition": "Che persegue il fine con qualsiasi mezzo, spregiudicato e calcolatore senza scrupoli",
+      "distractors": [
+        "Che agisce sempre nel rispetto della legge e delle convenzioni morali",
+        "Che rinuncia al potere per vivere in modo austero e ritirato",
+        "Che governa con saggezza e benevolenza verso il bene comune"
+      ]
+    },
+    {
+      "id": 84,
+      "word": "pirronismo",
+      "definition": "Scetticismo radicale che nega la possibilità di qualsiasi conoscenza certa",
+      "distractors": [
+        "Ottimismo sistematico basato sulla fiducia nella ragione umana",
+        "Dottrina che pone il piacere come unico fine della vita",
+        "Filosofia che ricerca la virtù attraverso il controllo delle passioni"
+      ]
+    },
+    {
+      "id": 85,
+      "word": "pareidolia",
+      "definition": "Tendenza a vedere figure significative — volti, animali, forme — in stimoli casuali e ambigui",
+      "distractors": [
+        "Incapacità di riconoscere i volti delle persone familiari",
+        "Visione distorta della realtà causata da forte stress emotivo",
+        "Ossessione per la simmetria e per le forme geometriche perfette"
+      ]
+    },
+    {
+      "id": 86,
+      "word": "anedonia",
+      "definition": "Incapacità persistente di provare piacere o interesse per attività normalmente piacevoli",
+      "distractors": [
+        "Eccesso di sensibilità emotiva che porta a sentire tutto in modo amplificato",
+        "Tendenza a trovare piacere in situazioni di rischio e pericolo",
+        "Incapacità di provare dolore fisico o disagio corporeo"
+      ]
+    },
+    {
+      "id": 87,
+      "word": "apofenia",
+      "definition": "Tendenza a percepire connessioni significative tra elementi del tutto casuali e non correlati",
+      "distractors": [
+        "Incapacità di riconoscere relazioni causali tra eventi chiaramente collegati",
+        "Tendenza a interpretare ogni evento come diretto personalmente a sé",
+        "Ossessione per la coerenza che porta a ignorare i dettagli contraddittori"
+      ]
+    },
+    {
+      "id": 88,
+      "word": "alexitimia",
+      "definition": "Difficoltà a identificare, descrivere e distinguere le proprie emozioni dall'interno",
+      "distractors": [
+        "Incapacità di comprendere le emozioni degli altri per mancanza di empatia",
+        "Tendenza a esprimere le emozioni in modo esagerato e teatrale",
+        "Stato di euforia costante e ingiustificata indipendente dalla situazione"
+      ]
+    },
+    {
+      "id": 89,
+      "word": "confabulazione",
+      "definition": "Produzione inconsapevole di ricordi falsi per colmare lacune della memoria, senza intenzione di mentire",
+      "distractors": [
+        "Tecnica di interrogatorio basata sulla ripetizione delle domande",
+        "Conversazione informale e priva di scopo preciso tra più persone",
+        "Rifiuto deliberato di ricordare eventi traumatici del passato"
+      ]
+    },
+    {
+      "id": 90,
+      "word": "propriocezione",
+      "definition": "Senso della posizione, del movimento e dell'equilibrio del proprio corpo nello spazio",
+      "distractors": [
+        "Capacità di percepire stimoli fisici provenienti dall'ambiente esterno",
+        "Sensazione soggettiva di possedere un corpo diverso dal proprio",
+        "Percezione dell'identità personale attraverso il confronto con gli altri"
+      ]
+    },
+    {
+      "id": 91,
+      "word": "eudaimonia",
+      "definition": "Per Aristotele, lo stato di fioritura piena dell'essere umano che vive secondo virtù",
+      "distractors": [
+        "Piacere dei sensi come unico fine razionale della vita umana",
+        "Stato di totale assenza di desideri e di turbamenti dell'animo",
+        "Felicità effimera legata al soddisfacimento di un desiderio immediato"
+      ]
+    },
+    {
+      "id": 92,
+      "word": "epoché",
+      "definition": "Sospensione volontaria del giudizio di fronte a questioni incerte, propria dello scetticismo antico",
+      "distractors": [
+        "Affermazione decisa di una tesi dopo attenta valutazione delle prove",
+        "Metodo di confutazione basato sulla riduzione all'assurdo",
+        "Principio logico che vieta di affermare e negare la stessa cosa"
+      ]
+    },
+    {
+      "id": 93,
+      "word": "demiurgo",
+      "definition": "Nella filosofia platonica, l'artefice divino che plasma il mondo sensibile guardando alle idee eterne",
+      "distractors": [
+        "Nella teologia cristiana, il nome del Dio che ha creato il mondo dal nulla",
+        "In Aristotele, il principio immobile che muove l'universo senza esserne mosso",
+        "In Plotino, l'Uno da cui tutto promana per emanazione necessaria"
+      ]
+    },
+    {
+      "id": 94,
+      "word": "apocatastasi",
+      "definition": "Dottrina del ripristino universale di tutte le cose — compresi i dannati — al loro stato originario perfetto",
+      "distractors": [
+        "Dottrina della predestinazione assoluta di alcune anime alla salvezza eterna",
+        "Principio per cui ogni anima individuale si dissolve nel tutto divino dopo la morte",
+        "Credenza nel ritorno ciclico degli stessi eventi cosmici su scale immense"
+      ]
+    },
+    {
+      "id": 95,
+      "word": "entelechia",
+      "definition": "In Aristotele, il principio interno che porta ogni essere a realizzare pienamente la propria forma",
+      "distractors": [
+        "La materia informe e potenziale da cui ogni cosa trae la propria esistenza",
+        "Il fine esterno imposto a un essere da una causa superiore",
+        "La forza divina che mantiene in essere le cose impedendone la corruzione"
+      ]
+    },
+    {
+      "id": 96,
+      "word": "ochlocrazia",
+      "definition": "Forma degenerata di governo in cui il potere è detenuto dalla folla incontrollata e violenta",
+      "distractors": [
+        "Sistema in cui il potere è distribuito equamente tra tutti i cittadini adulti",
+        "Governo esercitato da una ristretta élite di esperti e tecnocrati",
+        "Forma di governo in cui l'autorità spetta ai capi militari più valorosi"
+      ]
+    },
+    {
+      "id": 97,
+      "word": "gerontocrazia",
+      "definition": "Sistema in cui il potere politico è detenuto e gestito dagli anziani della comunità",
+      "distractors": [
+        "Sistema in cui solo chi ha superato determinati esami può governare",
+        "Forma di governo ereditaria in cui il potere passa di padre in figlio",
+        "Regime in cui il potere appartiene a chi ha accumulato la maggiore ricchezza"
+      ]
+    },
+    {
+      "id": 98,
+      "word": "timocrazia",
+      "definition": "Sistema di governo in cui il diritto a partecipare alla vita politica è proporzionale al censo",
+      "distractors": [
+        "Governo fondato sul principio del merito e delle capacità dimostrate",
+        "Regime in cui la paura è lo strumento principale di controllo dei cittadini",
+        "Sistema in cui il potere appartiene a chi gode di maggiore prestigio religioso"
+      ]
+    },
+    {
+      "id": 99,
+      "word": "satrapìa",
+      "definition": "Dominio tirannico e arbitrario esercitato da un funzionario su una provincia sottomessa",
+      "distractors": [
+        "Forma di autogoverno locale concessa da un sovrano alle città fedeli",
+        "Sistema di alleanze difensive tra province di un grande impero",
+        "Territorio conteso tra due potenze che ne condividono l'amministrazione"
+      ]
+    },
+    {
+      "id": 100,
+      "word": "diegesi",
+      "definition": "L'universo narrativo interno all'opera: il mondo della storia e i suoi personaggi",
+      "distractors": [
+        "La voce del narratore che commenta gli eventi dall'esterno della storia",
+        "L'insieme dei temi simbolici che attraversano un'opera letteraria",
+        "La struttura temporale con cui gli eventi vengono ordinati nel racconto"
+      ]
+    },
+    {
+      "id": 101,
+      "word": "metalessi",
+      "definition": "Violazione del confine tra livelli narrativi diversi, come quando un personaggio parla al suo autore",
+      "distractors": [
+        "Tecnica narrativa che alterna rapidamente punti di vista di personaggi diversi",
+        "Uso di un simbolo che rinvia a un altro testo letterario precedente",
+        "Interruzione della storia per inserire una lunga digressione descrittiva"
+      ]
+    },
+    {
+      "id": 102,
+      "word": "prolessi",
+      "definition": "Anticipazione narrativa di eventi che si verificheranno più avanti nella storia",
+      "distractors": [
+        "Ritorno narrativo a eventi accaduti prima del punto in cui si trova il racconto",
+        "Rallentamento del ritmo narrativo attraverso descrizioni dettagliate",
+        "Ripresa di un tema narrativo già trattato con variazioni significative"
+      ]
+    },
+    {
+      "id": 103,
+      "word": "anacronia",
+      "definition": "Qualsiasi discordanza tra l'ordine in cui gli eventi accadono e l'ordine in cui vengono raccontati",
+      "distractors": [
+        "Coincidenza perfetta tra il tempo della storia e il tempo del racconto",
+        "Uso di tempi verbali arcaici per ambientare il racconto in epoche passate",
+        "Errore involontario di datazione nella ricostruzione di eventi storici"
+      ]
+    },
+    {
+      "id": 104,
+      "word": "ipotesto",
+      "definition": "Il testo di partenza a cui un'opera si riferisce, trasformandolo o parodiandolo",
+      "distractors": [
+        "Il testo aggiunto in nota a piè di pagina per spiegare i passi oscuri",
+        "La fonte orale trasmessa di generazione in generazione prima della scrittura",
+        "Il manoscritto originale di cui esistono solo copie successive deteriorate"
+      ]
+    },
+    {
+      "id": 105,
+      "word": "melisma",
+      "definition": "Ornamento vocale in cui una lunga sequenza di note viene cantata su una sola sillaba",
+      "distractors": [
+        "Pausa espressiva prolungata tra due frasi musicali consecutive",
+        "Tecnica strumentale che imita il suono della voce umana",
+        "Accordo di risoluzione che chiude una frase musicale in modo conclusivo"
+      ]
+    },
+    {
+      "id": 106,
+      "word": "bordone",
+      "definition": "Nota tenuta fissa e continua come base armonica su cui si sviluppa la melodia",
+      "distractors": [
+        "Variazione improvvisata che si allontana dalla melodia principale",
+        "Accordo finale che risolve la tensione armonica di un brano",
+        "Ripetizione ossessiva di una cellula ritmica lungo tutto il brano"
+      ]
+    },
+    {
+      "id": 107,
+      "word": "contraffactura",
+      "definition": "Sostituzione del testo profano con uno sacro — o viceversa — su una melodia preesistente",
+      "distractors": [
+        "Tecnica di composizione che sovrappone due melodie indipendenti",
+        "Copia illegale di un'opera musicale con piccole variazioni per aggirarsi il diritto d'autore",
+        "Rielaborazione orchestrale di un brano originariamente scritto per voce sola"
+      ]
+    },
+    {
+      "id": 108,
+      "word": "neumatico",
+      "definition": "Stile del canto gregoriano in cui due o tre note sono assegnate a ogni sillaba del testo",
+      "distractors": [
+        "Stile vocale in cui ogni sillaba corrisponde a una singola nota",
+        "Tecnica di respirazione diaframmatica usata dai cantanti lirici",
+        "Modo musicale medievale associato alla celebrazione delle feste solenni"
+      ]
+    },
+    {
+      "id": 109,
+      "word": "abbacinare",
+      "definition": "Accecare con una luce violenta e abbagliante; per estensione, confondere e ingannare con l'apparenza",
+      "distractors": [
+        "Illuminare dolcemente qualcosa che era rimasto nell'ombra",
+        "Scrutare con attenzione intensa un oggetto lontano e poco visibile",
+        "Proteggere gli occhi da una luce fastidiosa con un riparo"
+      ]
+    },
+    {
+      "id": 110,
+      "word": "lambiccato",
+      "definition": "Eccessivamente contorto e artificioso, ricercato fino al pedantismo",
+      "distractors": [
+        "Espresso con naturalezza e spontaneità, privo di qualsiasi sforzo",
+        "Elaborato con cura certosina ma in modo chiaro e diretto",
+        "Grezzo e rozzo, frutto di poca riflessione e di scarsa cultura"
+      ]
+    },
+    {
+      "id": 111,
+      "word": "sciamannato",
+      "definition": "Trasandato nell'abbigliamento e nei modi, disordinato e sciatto nel proprio aspetto",
+      "distractors": [
+        "Eccessivamente curato nell'aspetto fino all'ostentazione vanitosa",
+        "Vestito in modo anonimo per non attirare l'attenzione su di sé",
+        "Elegante nello stile pur senza risorse economiche adeguate"
+      ]
+    },
+    {
+      "id": 112,
+      "word": "belluino",
+      "definition": "Feroce e brutale come un animale selvatico, privo di qualsiasi freno umano",
+      "distractors": [
+        "Timido e inoffensivo come un animale domestico ben addomesticato",
+        "Istintivo e spontaneo, guidato dalla natura più che dalla ragione",
+        "Energico e vitale come un animale giovane nel pieno delle forze"
+      ]
+    },
+    {
+      "id": 113,
+      "word": "procelloso",
+      "definition": "Tempestoso e agitato come il mare in burrasca; detto di periodo, pieno di scosse e tumulti",
+      "distractors": [
+        "Calmo e placido come il mare nelle giornate di bonaccia estiva",
+        "Mutevole e imprevedibile come il tempo in montagna",
+        "Lento e pigro come un fiume che attraversa una pianura piatta"
+      ]
+    },
+    {
+      "id": 114,
+      "word": "abborracciare",
+      "definition": "Fare qualcosa in fretta e male, senza cura né attenzione, rattoppando alla bell'e meglio",
+      "distractors": [
+        "Rifinire un lavoro con estrema cura nei dettagli più piccoli",
+        "Iniziare un'impresa ambiziosa senza avere le competenze necessarie",
+        "Abbandonare un progetto a metà per mancanza di risorse"
+      ]
+    },
+    {
+      "id": 115,
+      "word": "crestomazia",
+      "definition": "Raccolta antologica di testi scelti per lo studio di una lingua o di un autore",
+      "distractors": [
+        "Studio critico delle varianti di un testo attraverso i diversi manoscritti",
+        "Indice analitico dettagliato posto in appendice a un'opera erudita",
+        "Catalogo sistematico di tutti i manoscritti conservati in un archivio"
+      ]
+    },
+    {
+      "id": 116,
+      "word": "iatrogenico",
+      "definition": "Causato dal trattamento medico stesso o dall'intervento del medico, non dalla malattia originaria",
+      "distractors": [
+        "Tipico di malattie che si trasmettono per via genetica da genitore a figlio",
+        "Causato da agenti ambientali esterni come inquinamento o radiazioni",
+        "Caratteristico di patologie che insorgono spontaneamente senza causa nota"
+      ]
+    },
+    {
+      "id": 117,
+      "word": "nosocomiale",
+      "definition": "Detto di infezione o malattia contratta all'interno di una struttura ospedaliera",
+      "distractors": [
+        "Tipico di epidemie che si sviluppano in ambienti scolastici affollati",
+        "Relativo alle malattie che colpiscono solo chi lavora a contatto con animali",
+        "Detto di patologia che si manifesta esclusivamente in età avanzata"
+      ]
+    },
+    {
+      "id": 118,
+      "word": "apoptosi",
+      "definition": "Morte cellulare programmata e controllata dall'organismo, essenziale per lo sviluppo e il rinnovamento",
+      "distractors": [
+        "Divisione incontrollata delle cellule che porta alla formazione di tumori",
+        "Processo di riparazione dei tessuti danneggiati da agenti esterni",
+        "Fusione di due cellule per formare un unico organismo più complesso"
+      ]
+    },
+    {
+      "id": 119,
+      "word": "omeostasi",
+      "definition": "Capacità di un organismo di mantenere costanti le proprie condizioni interne nonostante i cambiamenti esterni",
+      "distractors": [
+        "Processo di adattamento progressivo dell'organismo a condizioni ambientali nuove",
+        "Tendenza dell'organismo a modificare le proprie funzioni in risposta allo stress",
+        "Meccanismo di riparo automatico che entra in azione dopo una lesione"
+      ]
+    },
+    {
+      "id": 120,
+      "word": "sinestesia",
+      "definition": "Fenomeno per cui uno stimolo sensoriale evoca involontariamente sensazioni di un senso diverso",
+      "distractors": [
+        "Perdita simultanea di due o più sensi a seguito di un trauma neurologico",
+        "Capacità di amplificare i segnali sensoriali deboli oltre la soglia normale",
+        "Confusione tra stimoli dello stesso senso, come i colori simili tra loro"
+      ]
+    }
+  ]
+}
