@@ -19,10 +19,10 @@ export default function StartScreen({ onStart, wordCount }: Props) {
         </div>
 
         <h1 className="text-4xl font-extrabold text-white mb-2 tracking-tight">
-          Lessico Italiano
+          Parole Difficili
         </h1>
         <p className="text-purple-300 text-lg font-medium mb-1">
-          Quiz sulle parole difficili
+          Il quiz per diventare un maestro del lessico italiano
         </p>
         <p className="text-slate-400 text-sm mb-8">
           {wordCount} parole nel dizionario · 10 domande a partita
