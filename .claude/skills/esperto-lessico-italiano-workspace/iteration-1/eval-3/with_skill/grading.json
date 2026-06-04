@@ -1,0 +1,26 @@
+{
+  "eval_id": 3,
+  "run": "with_skill",
+  "expectations": [
+    {
+      "text": "Le parole proposte appartengono al registro colto-letterario, non a terminologie tecnico-scientifiche ultra-specialistiche",
+      "passed": true,
+      "evidence": "Verecondo (pudore etico, Leopardi/Manzoni), ineffabile (mistica/estetica), compiacenza (acquiescenza, saggistica), ignavia (Dante, morale civile), perentorio (tono del discorso) sono tutti colto-letterari senza essere tecnici."
+    },
+    {
+      "text": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi",
+      "passed": true,
+      "evidence": "Formato corretto per tutte e 5 le voci, con blocco JSON riepilogativo finale."
+    },
+    {
+      "text": "Le definizioni seguono lo stile del file: concise, dirette, senza formule come 'termine che indica' o 'parola che significa'",
+      "passed": true,
+      "evidence": "Le definizioni sono in stile diretto: 'Che prova pudore e ritegno morale...', 'Che non può essere espresso a parole...', 'Acquiescenza servile...', 'Viltà morale...', 'Che non ammette replica...'. Nessuna formula enciclopedica."
+    },
+    {
+      "text": "Nessuna parola proposta è già presente nel file words.json (incluse varianti morfologiche come protervo/protervia)",
+      "passed": true,
+      "evidence": "Nessuna delle 5 parole è già presente. La skill ha evitato protervo perché protervia (id 34) era già nel file."
+    }
+  ]
+}

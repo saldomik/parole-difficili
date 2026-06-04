@@ -1,0 +1,12 @@
+{
+  "eval_id": 2,
+  "eval_name": "lacune-tematiche",
+  "prompt": "Guarda il file src/data/words.json del quiz-italiano. Ci sono aree tematiche poco coperte o del tutto assenti? Proponi 5 parole che colmino le lacune più evidenti, con definizioni e distrattori pronti per il JSON.",
+  "assertions": [
+    { "id": "gap_analysis", "description": "La risposta include un'analisi esplicita delle lacune tematiche nel file esistente" },
+    { "id": "new_categories", "description": "Le parole proposte appartengono a categorie tematiche nuove o poco presenti (non retorica, filosofia o psicologia già ben coperte)" },
+    { "id": "json_format", "description": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi" },
+    { "id": "no_duplicates", "description": "Nessuna parola proposta è già presente nel file words.json" },
+    { "id": "difficult_words", "description": "Le parole proposte sono rare, forbite o di uso difficile — non parole comuni del vocabolario quotidiano" }
+  ]
+}

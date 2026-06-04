@@ -1459,6 +1459,246 @@
         "Figura che nega un concetto per affermare il suo opposto in modo attenuato",
         "Ripetizione di un termine con significati diversi nella stessa frase"
       ]
+    },
+    {
+      "id": 147,
+      "word": "contumace",
+      "definition": "Chi non si presenta in giudizio pur essendo stato regolarmente citato; per estensione, chi si sottrae ostinatamente agli obblighi",
+      "distractors": [
+        "Chi testimonia in giudizio a favore dell'imputato senza esserne richiesto",
+        "Chi viene condannato in primo grado e ricorre in appello contro la sentenza",
+        "Chi si presenta spontaneamente alle autorità per confessare un illecito"
+      ]
+    },
+    {
+      "id": 148,
+      "word": "chiaroscuro",
+      "definition": "Tecnica pittorica che modella le forme attraverso il contrasto graduato tra zone di luce intensa e ombre profonde",
+      "distractors": [
+        "Tecnica di ritratto che utilizza soli colori primari per ottenere il massimo della vivacità cromatica",
+        "Stile decorativo caratterizzato da motivi geometrici in bianco e nero senza gradazioni",
+        "Procedimento che sfrutta la prospettiva aerea per sfumare i contorni delle figure lontane"
+      ]
+    },
+    {
+      "id": 149,
+      "word": "vetustà",
+      "definition": "Antichità remota e venerabile di una cosa, accompagnata spesso da segni visibili di decadimento o di storia",
+      "distractors": [
+        "Stato di conservazione perfetta di un oggetto d'arte nonostante l'età avanzata",
+        "Qualità di ciò che è moderno pur ispirandosi deliberatamente al passato",
+        "Processo di restauro che restituisce a un edificio il suo aspetto originario"
+      ]
+    },
+    {
+      "id": 150,
+      "word": "peculato",
+      "definition": "Appropriazione indebita di denaro pubblico da parte di chi lo detiene per ragioni d'ufficio",
+      "distractors": [
+        "Reato di chi riceve denaro in cambio di favori nell'esercizio di una funzione pubblica",
+        "Delitto di chi falsifica atti ufficiali per ottenere vantaggi personali",
+        "Illecito di chi esercita pressioni indebite su un pubblico funzionario"
+      ]
+    },
+    {
+      "id": 151,
+      "word": "anfrattuoso",
+      "definition": "Pieno di anfratti, tortuoso e accidentato, detto di percorso, terreno o discorso difficile da seguire",
+      "distractors": [
+        "Ampio e sgombro, privo di ostacoli che ne impediscano la percorribilità",
+        "Stretto e angusto ma rettilineo, come un corridoio sotterraneo scavato nella roccia",
+        "Ripido e scosceso, che richiede sforzo fisico ma non presenta deviazioni"
+      ]
+    },
+    {
+      "id": 152,
+      "word": "capzioso",
+      "definition": "Detto di argomento o domanda: apparentemente corretto ma costruito per ingannare o far cadere in errore",
+      "distractors": [
+        "Detto di ragionamento: rigoroso e inattaccabile sul piano della logica formale",
+        "Detto di accusa: infondata e calunniosa, mossa per screditare l'avversario",
+        "Detto di norma giuridica: di difficile applicazione per la sua complessità tecnica"
+      ]
+    },
+    {
+      "id": 153,
+      "word": "zenith",
+      "definition": "Il punto della volta celeste direttamente sopra l'osservatore, opposto al nadir; per estensione, il punto più alto di qualcosa",
+      "distractors": [
+        "L'angolo formato tra l'orizzonte e la direzione di un astro al momento del suo sorgere",
+        "Il punto della volta celeste direttamente sotto i piedi dell'osservatore",
+        "La linea immaginaria che congiunge i due poli celesti passando per il centro del cielo"
+      ]
+    },
+    {
+      "id": 154,
+      "word": "usura",
+      "definition": "Prestito di denaro a tassi di interesse esorbitanti e illegali, con profitto abusivo sul bisogno altrui",
+      "distractors": [
+        "Deterioramento progressivo di un bene materiale dovuto all'uso prolungato nel tempo",
+        "Pratica di accumulare beni in eccesso rispetto al fabbisogno per timore della scarsità",
+        "Cessione temporanea di un bene a fronte di un canone periodico concordato tra le parti"
+      ]
+    },
+    {
+      "id": 155,
+      "word": "kenosi",
+      "definition": "Svuotamento volontario di sé da parte di Dio incarnandosi nel Cristo; per estensione, ogni atto di annullamento del proprio io",
+      "distractors": [
+        "Dottrina dell'unione mistica dell'anima con Dio attraverso la purificazione progressiva",
+        "Stato di pienezza spirituale raggiunto dall'anima dopo la contemplazione prolungata",
+        "Principio teologico secondo cui Dio è totalmente trascendente e inaccessibile all'uomo"
+      ]
+    },
+    {
+      "id": 156,
+      "word": "verecondo",
+      "definition": "Che prova pudore e ritegno morale, incapace di sfrontatezza o impudenza per genuina riservatezza interiore",
+      "distractors": [
+        "Che evita di esprimere opinioni per paura di essere giudicato o contraddetto",
+        "Che mostra rispetto verso gli anziani e i superiori per convenzione sociale",
+        "Che si comporta in modo misurato per calcolo strategico, non per natura"
+      ]
+    },
+    {
+      "id": 157,
+      "word": "ineffabile",
+      "definition": "Che non può essere espresso a parole, che supera i limiti del linguaggio per eccesso di intensità o di mistero",
+      "distractors": [
+        "Che produce un effetto di fastidio impossibile da ignorare o da tollerare",
+        "Che non può essere compreso dalla ragione ordinaria senza una formazione specifica",
+        "Che lascia chi lo ascolta o lo legge senza alcuna risposta o reazione"
+      ]
+    },
+    {
+      "id": 158,
+      "word": "compiacenza",
+      "definition": "Acquiescenza servile e accomodante verso i desideri altrui, per debolezza o per convenienza, senza spirito critico",
+      "distractors": [
+        "Soddisfazione profonda e legittima per un risultato ottenuto con impegno",
+        "Generosità disinteressata verso chi si trova in una situazione di bisogno",
+        "Atteggiamento di chi accetta le critiche con umiltà e disponibilità al cambiamento"
+      ]
+    },
+    {
+      "id": 159,
+      "word": "ignavia",
+      "definition": "Viltà morale e incapacità di impegnarsi, di scegliere e di agire, anche quando la situazione lo richiederebbe",
+      "distractors": [
+        "Pigrizia del corpo che porta a rimandare i compiti quotidiani senza una causa profonda",
+        "Paura paralizzante che impedisce di agire di fronte a un pericolo reale e concreto",
+        "Indifferenza verso le questioni politiche causata da mancanza di informazione"
+      ]
+    },
+    {
+      "id": 160,
+      "word": "perentorio",
+      "definition": "Che non ammette replica né discussione, formulato in modo da escludere qualsiasi obiezione o alternativa",
+      "distractors": [
+        "Che lascia aperta la possibilità di negoziazione e di compromesso tra le parti",
+        "Che viene pronunciato con tono solenne ma senza vera autorità di imporsi",
+        "Che esprime una preferenza netta pur riconoscendo la validità delle opinioni contrarie"
+      ]
+    },
+    {
+      "id": 161,
+      "word": "paronomasia",
+      "definition": "Figura retorica che accosta parole foneticamente simili ma di significato diverso per effetto sonoro o semantico",
+      "distractors": [
+        "Ripetizione della stessa parola in posizioni simmetriche all'interno di un verso",
+        "Sostituzione di un termine con un altro che condivide la stessa radice etimologica",
+        "Accostamento di parole di campo semantico opposto per creare un effetto di straniamento"
+      ]
+    },
+    {
+      "id": 162,
+      "word": "mellifluo",
+      "definition": "Dolce e scorrevole come il miele nel suono o nelle maniere, con sfumatura di untuosità studiata e compiaciuta",
+      "distractors": [
+        "Aspro e discordante, sgradevole all'udito per la durezza delle consonanti",
+        "Monotono e piatto, privo di qualsiasi variazione di tono o di colore",
+        "Solenne e grave, adatto alle circostanze ufficiali e ai discorsi formali"
+      ]
+    },
+    {
+      "id": 163,
+      "word": "recrudescenza",
+      "definition": "Ripresa violenta e improvvisa di qualcosa che sembrava essersi attenuato o spento",
+      "distractors": [
+        "Attenuazione progressiva di un fenomeno fino alla sua completa scomparsa",
+        "Prima manifestazione acuta di una malattia o di un conflitto latente",
+        "Alternanza ritmica tra fasi di intensità crescente e fasi di calma"
+      ]
+    },
+    {
+      "id": 164,
+      "word": "numinoso",
+      "definition": "Ciò che evoca la presenza del sacro come potenza insieme tremenda, misteriosa e irresistibilmente affascinante",
+      "distractors": [
+        "Relativo ai riti di purificazione nelle religioni monoteiste abramitiche",
+        "Detto di luogo o oggetto dichiarato sacro per decreto di un'autorità religiosa",
+        "Che appartiene alla sfera del mito, contrapposta a quella della storia e della ragione"
+      ]
+    },
+    {
+      "id": 165,
+      "word": "ierofania",
+      "definition": "Manifestazione del sacro all'interno della realtà profana, in forme concrete e percepibili",
+      "distractors": [
+        "Processo di graduale secolarizzazione per cui il sacro perde rilevanza nella vita sociale",
+        "Visione mistica riservata ai soli iniziati dopo un percorso di purificazione interiore",
+        "Racconto mitologico che narra l'origine delle pratiche rituali di un popolo"
+      ]
+    },
+    {
+      "id": 166,
+      "word": "jamais-vu",
+      "definition": "Sensazione di estraneità e di non riconoscimento verso un luogo, una persona o una situazione in realtà già conosciuti",
+      "distractors": [
+        "Sensazione di aver già vissuto la situazione presente pur sapendo di viverla per la prima volta",
+        "Impressione di essere osservati da qualcuno pur non vedendo nessuno nell'ambiente circostante",
+        "Percezione distorta del tempo in cui pochi secondi sembrano durare ore intere"
+      ]
+    },
+    {
+      "id": 167,
+      "word": "ecdotica",
+      "definition": "Disciplina filologica che studia le tecniche per stabilire e pubblicare un'edizione critica di un testo",
+      "distractors": [
+        "Studio dell'evoluzione di una lingua attraverso i suoi monumenti letterari più antichi",
+        "Arte di identificare il genere di un testo sulla base delle sue caratteristiche formali",
+        "Scienza che ricostruisce la biografia di un autore attraverso l'analisi della sua opera"
+      ]
+    },
+    {
+      "id": 168,
+      "word": "tesitura",
+      "definition": "La regione vocale maggiormente sfruttata in un brano, o il registro più naturale e confortevole di una voce cantante",
+      "distractors": [
+        "La velocità di esecuzione prescritta dall'autore per un determinato brano musicale",
+        "L'insieme degli abbellimenti e delle variazioni improvvisate aggiunti dall'esecutore",
+        "Il sistema di relazioni contrappuntistiche tra le voci in un brano corale"
+      ]
+    },
+    {
+      "id": 169,
+      "word": "versipelle",
+      "definition": "Chi muta con disinvoltura aspetto, opinione e comportamento secondo la convenienza, con astuzia camaleontesca",
+      "distractors": [
+        "Chi mantiene la propria posizione con fermezza anche sotto pressione e minacce esterne",
+        "Chi adatta il proprio linguaggio all'interlocutore senza mutarne le idee sostanziali",
+        "Chi professa principi coerenti in pubblico ma li contraddice nella vita privata"
+      ]
+    },
+    {
+      "id": 170,
+      "word": "turpiloquio",
+      "definition": "Uso abituale e deliberato di espressioni oscene, volgari o moralmente sconvenienti nel discorso",
+      "distractors": [
+        "Linguaggio formale e pomposo usato per nascondere la povertà dei contenuti",
+        "Discorso involontariamente goffo e impacciato per scarsa padronanza della lingua",
+        "Stile colloquiale e disinvolto tipico della comunicazione informale quotidiana"
+      ]
     }
   ]
 }

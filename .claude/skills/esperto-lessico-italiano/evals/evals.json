@@ -1,0 +1,81 @@
+{
+  "skill_name": "esperto-lessico-italiano",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Analizza il file src/data/words.json del progetto quiz-italiano e proponi 5 nuove parole italiane rare, forbite o di uso difficile da aggiungere al quiz. Fornisci le voci complete nel formato JSON del file.",
+      "expected_output": "5 voci JSON complete con id, word, definition e distractors (array di 3 stringhe), senza duplicati rispetto alle 146 parole esistenti, con definizioni concise e distrattori plausibili ma errati",
+      "files": ["src/data/words.json"],
+      "assertions": [
+        {
+          "id": "json_format",
+          "description": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi"
+        },
+        {
+          "id": "no_duplicates",
+          "description": "Nessuna parola proposta è già presente nel file words.json"
+        },
+        {
+          "id": "italian_response",
+          "description": "La risposta è interamente in italiano"
+        },
+        {
+          "id": "difficult_words",
+          "description": "Le parole proposte sono effettivamente rare, forbite o di uso difficile (non parole comuni del vocabolario quotidiano)"
+        },
+        {
+          "id": "plausible_distractors",
+          "description": "I distrattori sono plausibili: sembrano definizioni vere di parole simili, non risposte ovviamente assurde"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Guarda il file src/data/words.json del quiz-italiano. Ci sono aree tematiche poco coperte o del tutto assenti? Proponi 5 parole che colmino le lacune più evidenti, con definizioni e distrattori pronti per il JSON.",
+      "expected_output": "Breve analisi delle lacune tematiche, seguita da 5 voci JSON complete in aree non ancora coperte o sottorappresentate",
+      "files": ["src/data/words.json"],
+      "assertions": [
+        {
+          "id": "gap_analysis",
+          "description": "La risposta include un'analisi esplicita delle lacune tematiche nel file esistente"
+        },
+        {
+          "id": "new_categories",
+          "description": "Le parole proposte appartengono a categorie tematiche diverse o poco presenti nel file (es. diritto, gastronomia, araldica, marina, ecc.)"
+        },
+        {
+          "id": "json_format",
+          "description": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi"
+        },
+        {
+          "id": "no_duplicates",
+          "description": "Nessuna parola proposta è già presente nel file words.json"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Nel file src/data/words.json del quiz-italiano ci sono 146 parole molto specializzate. Vorrei aggiungere 5 termini che appartengono al vocabolario colto ma non tecnico — parole che un madrelingua istruito potrebbe incontrare in un saggio o in un romanzo d'autore, ma che non tutti conoscono bene. Proponi le voci complete con definizioni e distrattori pronti per il JSON.",
+      "expected_output": "5 voci JSON con parole di registro colto ma non specialistico — adatte a prosa letteraria o saggistica, non a manuali tecnici",
+      "files": ["src/data/words.json"],
+      "assertions": [
+        {
+          "id": "literary_register",
+          "description": "Le parole proposte appartengono al registro colto-letterario, non a terminologie tecnico-scientifiche ultra-specialistiche"
+        },
+        {
+          "id": "json_format",
+          "description": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi"
+        },
+        {
+          "id": "definition_style",
+          "description": "Le definizioni seguono lo stile del file: concise, dirette, senza formule come 'termine che indica' o 'parola che significa'"
+        },
+        {
+          "id": "no_duplicates",
+          "description": "Nessuna parola proposta è già presente nel file words.json"
+        }
+      ]
+    }
+  ]
+}

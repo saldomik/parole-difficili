@@ -1,0 +1,11 @@
+{
+  "eval_id": 3,
+  "eval_name": "vocabolario-colto-non-tecnico",
+  "prompt": "Nel file src/data/words.json del quiz-italiano ci sono 146 parole molto specializzate. Vorrei aggiungere 5 termini che appartengono al vocabolario colto ma non tecnico — parole che un madrelingua istruito potrebbe incontrare in un saggio o in un romanzo d'autore, ma che non tutti conoscono bene. Proponi le voci complete con definizioni e distrattori pronti per il JSON.",
+  "assertions": [
+    { "id": "literary_register", "description": "Le parole proposte appartengono al registro colto-letterario, non a terminologie tecnico-scientifiche ultra-specialistiche" },
+    { "id": "json_format", "description": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi" },
+    { "id": "definition_style", "description": "Le definizioni seguono lo stile del file: concise, dirette, senza formule come 'termine che indica' o 'parola che significa'" },
+    { "id": "no_duplicates", "description": "Nessuna parola proposta è già presente nel file words.json (incluse varianti morfologiche come protervo/protervia)" }
+  ]
+}

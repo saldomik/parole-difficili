@@ -1,0 +1,12 @@
+{
+  "eval_id": 1,
+  "eval_name": "espansione-base",
+  "prompt": "Analizza il file src/data/words.json del progetto quiz-italiano e proponi 5 nuove parole italiane rare, forbite o di uso difficile da aggiungere al quiz. Fornisci le voci complete nel formato JSON del file.",
+  "assertions": [
+    { "id": "json_format", "description": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi" },
+    { "id": "no_duplicates", "description": "Nessuna parola proposta è già presente nel file words.json" },
+    { "id": "italian_response", "description": "La risposta è interamente in italiano" },
+    { "id": "difficult_words", "description": "Le parole proposte sono effettivamente rare, forbite o di uso difficile (non parole comuni del vocabolario quotidiano)" },
+    { "id": "plausible_distractors", "description": "I distrattori sono plausibili: sembrano definizioni vere di parole simili, non risposte ovviamente assurde" }
+  ]
+}

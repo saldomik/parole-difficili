@@ -1,0 +1,31 @@
+{
+  "eval_id": 2,
+  "run": "with_skill",
+  "expectations": [
+    {
+      "text": "La risposta include un'analisi esplicita delle lacune tematiche nel file esistente",
+      "passed": true,
+      "evidence": "La risposta apre con una tabella dettagliata delle aree del tutto assenti: diritto, arte visiva, astronomia, architettura, botanica, economia, diplomatica, teologia mistica."
+    },
+    {
+      "text": "Le parole proposte appartengono a categorie tematiche nuove o poco presenti (non retorica, filosofia o psicologia già ben coperte)",
+      "passed": true,
+      "evidence": "Capzioso (diritto/dialettica), chiaroscuro (arte visiva), zenith (astronomia), usura (economia/diritto), kenosi (teologia mistica) — tutte aree nuove."
+    },
+    {
+      "text": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi",
+      "passed": true,
+      "evidence": "Formato corretto per tutte e 5 le voci."
+    },
+    {
+      "text": "Nessuna parola proposta è già presente nel file words.json",
+      "passed": true,
+      "evidence": "Nessuna delle 5 parole (capzioso, chiaroscuro, zenith, usura, kenosi) compare nelle 146 voci esistenti."
+    },
+    {
+      "text": "Le parole proposte sono rare, forbite o di uso difficile — non parole comuni del vocabolario quotidiano",
+      "passed": true,
+      "evidence": "Capzioso (spesso confuso con 'cavilloso'), kenosi (termine teologico raro), zenith (noto ma raramente definito con precisione tecnica), usura (polisemia difficile). Tutte adatte al quiz."
+    }
+  ]
+}

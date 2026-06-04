@@ -1,0 +1,26 @@
+{
+  "eval_id": 3,
+  "run": "without_skill",
+  "expectations": [
+    {
+      "text": "Le parole proposte appartengono al registro colto-letterario, non a terminologie tecnico-scientifiche ultra-specialistiche",
+      "passed": true,
+      "evidence": "Velleità, compiacenza, puntiglio, languore, protervo sono tutti colto-letterari. Nessun termine tecnico-scientifico."
+    },
+    {
+      "text": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi",
+      "passed": true,
+      "evidence": "Formato corretto per tutte e 5 le voci."
+    },
+    {
+      "text": "Le definizioni seguono lo stile del file: concise, dirette, senza formule come 'termine che indica' o 'parola che significa'",
+      "passed": true,
+      "evidence": "Definizioni dirette e ben formate: 'Desiderio vago e impotente...', 'Ostinazione minuziosa...', 'Stato di dolce spossatezza...'. Stile coerente."
+    },
+    {
+      "text": "Nessuna parola proposta è già presente nel file words.json (incluse varianti morfologiche come protervo/protervia)",
+      "passed": false,
+      "evidence": "È stato proposto 'protervo' (id 151) ma 'protervia' è già presente nel file con id 34. Sono la stessa radice semantica in forme morfologiche diverse — l'agente ha notato il problema nelle note ma ha comunque incluso la voce."
+    }
+  ]
+}

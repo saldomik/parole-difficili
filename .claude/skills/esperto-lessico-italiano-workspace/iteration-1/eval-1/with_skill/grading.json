@@ -1,0 +1,31 @@
+{
+  "eval_id": 1,
+  "run": "with_skill",
+  "expectations": [
+    {
+      "text": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi",
+      "passed": true,
+      "evidence": "Tutte e 5 le voci (contumace, chiaroscuro, vetustà, peculato, anfrattuoso) hanno id, word, definition e array distractors con esattamente 3 elementi ciascuno."
+    },
+    {
+      "text": "Nessuna parola proposta è già presente nel file words.json",
+      "passed": true,
+      "evidence": "Nessuna delle 5 parole proposte (contumace, chiaroscuro, vetustà, peculato, anfrattuoso) compare nelle 146 voci esistenti."
+    },
+    {
+      "text": "La risposta è interamente in italiano",
+      "passed": true,
+      "evidence": "Tutto il testo, inclusi commenti e tabella di riepilogo, è in italiano."
+    },
+    {
+      "text": "Le parole proposte sono effettivamente rare, forbite o di uso difficile (non parole comuni del vocabolario quotidiano)",
+      "passed": true,
+      "evidence": "Contumace (tecnico-giuridico), vetustà (arcaico-letterario), peculato (giuridico-tecnico), anfrattuoso (raro letterario) sono tutte parole non comuni. Chiaroscuro è più noto ma ha una definizione tecnica precisa che giustifica l'inclusione."
+    },
+    {
+      "text": "I distrattori sono plausibili: sembrano definizioni vere di parole simili, non risposte ovviamente assurde",
+      "passed": true,
+      "evidence": "I distrattori coprono concetti giuridici adiacenti (per contumace e peculato), tecniche pittoriche simili (per chiaroscuro), stati contrari plausibili (per vetustà e anfrattuoso). Nessun distrattore è ovviamente assurdo."
+    }
+  ]
+}

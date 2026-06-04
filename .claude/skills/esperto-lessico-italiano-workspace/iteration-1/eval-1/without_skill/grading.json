@@ -1,0 +1,31 @@
+{
+  "eval_id": 1,
+  "run": "without_skill",
+  "expectations": [
+    {
+      "text": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi",
+      "passed": true,
+      "evidence": "Tutte e 5 le voci (captatio benevolentiae, enantiosemia, sincretismo, individuazione, escoriare) hanno formato corretto."
+    },
+    {
+      "text": "Nessuna parola proposta è già presente nel file words.json",
+      "passed": true,
+      "evidence": "Nessuna delle 5 parole proposte compare nelle 146 voci esistenti."
+    },
+    {
+      "text": "La risposta è interamente in italiano",
+      "passed": false,
+      "evidence": "Le definizioni e i commenti sono in italiano, ma l'output include sezioni con etichette in inglese ('Input', 'Output', commenti tecnici in inglese nei metadati). Non completamente in italiano."
+    },
+    {
+      "text": "Le parole proposte sono effettivamente rare, forbite o di uso difficile (non parole comuni del vocabolario quotidiano)",
+      "passed": true,
+      "evidence": "Captatio benevolentiae, enantiosemia, individuazione (nel senso junghiano), escoriare sono parole rare o tecniche. Sincretismo è di medio registro ma accettabile."
+    },
+    {
+      "text": "I distrattori sono plausibili: sembrano definizioni vere di parole simili, non risposte ovviamente assurde",
+      "passed": true,
+      "evidence": "I distrattori sono ben costruiti: per enantiosemia evocano altri processi semantici, per individuazione citano concetti freudiani e adleriani affini."
+    }
+  ]
+}

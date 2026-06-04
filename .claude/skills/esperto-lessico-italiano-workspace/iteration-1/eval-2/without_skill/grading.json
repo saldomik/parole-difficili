@@ -1,0 +1,31 @@
+{
+  "eval_id": 2,
+  "run": "without_skill",
+  "expectations": [
+    {
+      "text": "La risposta include un'analisi esplicita delle lacune tematiche nel file esistente",
+      "passed": true,
+      "evidence": "L'analisi tematica è presente e dettagliata, con una lista di aree assenti o poco coperte."
+    },
+    {
+      "text": "Le parole proposte appartengono a categorie tematiche nuove o poco presenti (non retorica, filosofia o psicologia già ben coperte)",
+      "passed": true,
+      "evidence": "Canoro (natura), frugale (vita quotidiana), chiaroscuro (arte), contumace (diritto), effimero (tempo) — tutte aree nuove."
+    },
+    {
+      "text": "Ogni voce proposta ha i campi id, word, definition e distractors con esattamente 3 elementi",
+      "passed": true,
+      "evidence": "Formato corretto per tutte e 5 le voci."
+    },
+    {
+      "text": "Nessuna parola proposta è già presente nel file words.json",
+      "passed": true,
+      "evidence": "Nessuna delle 5 parole compare nelle 146 voci esistenti."
+    },
+    {
+      "text": "Le parole proposte sono rare, forbite o di uso difficile — non parole comuni del vocabolario quotidiano",
+      "passed": false,
+      "evidence": "Canoro ('che emette suoni melodiosi') e frugale ('di pasto sobrio') ed effimero ('che dura pochissimo') sono parole comuni che chiunque conosce, non adatte a un quiz di lessico difficile o forbito. Solo chiaroscuro e contumace sono all'altezza."
+    }
+  ]
+}
