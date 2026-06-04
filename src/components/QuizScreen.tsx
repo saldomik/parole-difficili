@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 import type { Question, AnswerStatus } from "../types";
 import ProgressBar from "./ProgressBar";
 
@@ -17,15 +17,11 @@ export default function QuizScreen({ questions, onFinish }: Props) {
   const [results, setResults] = useState<AnswerStatus[]>([]);
   const [transitioning, setTransitioning] = useState(false);
   const [cardKey, setCardKey] = useState(0);
-  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [pendingScore, setPendingScore] = useState(0);
+  const [pendingResults, setPendingResults] = useState<AnswerStatus[]>([]);
 
   const question = questions[index];
-
-  useEffect(() => {
-    return () => {
-      if (timerRef.current) clearTimeout(timerRef.current);
-    };
-  }, []);
+  const isLast = index + 1 >= questions.length;
 
   function handleSelect(option: string) {
     if (selected !== null || transitioning) return;
@@ -44,23 +40,25 @@ export default function QuizScreen({ questions, onFinish }: Props) {
       }
     });
     setOptionStates(states);
+    setPendingScore(newScore);
+    setPendingResults(newResults);
+  }
 
-    timerRef.current = setTimeout(() => {
-      if (index + 1 >= questions.length) {
-        onFinish(newScore, newResults);
-      } else {
-        setTransitioning(true);
-        setTimeout(() => {
-          setScore(newScore);
-          setResults(newResults);
-          setIndex(index + 1);
-          setSelected(null);
-          setOptionStates({});
-          setCardKey((k) => k + 1);
-          setTransitioning(false);
-        }, 250);
-      }
-    }, 1400);
+  function handleNext() {
+    if (isLast) {
+      onFinish(pendingScore, pendingResults);
+    } else {
+      setTransitioning(true);
+      setTimeout(() => {
+        setScore(pendingScore);
+        setResults(pendingResults);
+        setIndex(index + 1);
+        setSelected(null);
+        setOptionStates({});
+        setCardKey((k) => k + 1);
+        setTransitioning(false);
+      }, 250);
+    }
   }
 
   function getOptionClass(option: string): string {
@@ -130,9 +128,14 @@ export default function QuizScreen({ questions, onFinish }: Props) {
           </div>
 
           {selected && (
-            <p className="text-center text-slate-500 text-xs mt-5 animate-fade-in">
-              Prossima domanda in un momento…
-            </p>
+            <div className="mt-5 animate-fade-in">
+              <button
+                onClick={handleNext}
+                className="w-full py-4 rounded-2xl font-semibold text-sm bg-violet-600 hover:bg-violet-500 active:scale-[0.98] transition-all duration-150 text-white"
+              >
+                {isLast ? "Vedi risultati" : "Prossima domanda →"}
+              </button>
+            </div>
           )}
         </div>
       </div>

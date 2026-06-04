@@ -1199,6 +1199,266 @@
         "Capacità di amplificare i segnali sensoriali deboli oltre la soglia normale",
         "Confusione tra stimoli dello stesso senso, come i colori simili tra loro"
       ]
+    },
+    {
+      "id": 121,
+      "word": "distopico",
+      "definition": "Relativo a una società immaginaria oppressiva, desumanizzante e priva di libertà, opposto dell'utopia",
+      "distractors": [
+        "Relativo a una comunità ideale in cui regna giustizia e armonia perfetta",
+        "Detto di regime politico fondato sul consenso popolare e sulla partecipazione attiva",
+        "Relativo a una visione del futuro tecnologicamente avanzata e ottimistica"
+      ]
+    },
+    {
+      "id": 122,
+      "word": "simulacro",
+      "definition": "Copia o immagine che ha perso ogni riferimento all'originale e si sostituisce alla realtà stessa",
+      "distractors": [
+        "Prototipo originale da cui vengono ricavate tutte le copie successive",
+        "Rappresentazione fedele e documentata di un fatto realmente accaduto",
+        "Modello tridimensionale usato per testare un progetto prima della sua realizzazione"
+      ]
+    },
+    {
+      "id": 123,
+      "word": "panoptico",
+      "definition": "Relativo a un sistema di sorveglianza totale in cui ciascuno si sente costantemente osservato anche senza esserlo",
+      "distractors": [
+        "Relativo a un sistema di controllo esercitato apertamente e senza dissimulazione",
+        "Detto di struttura architettonica priva di pareti divisorie interne",
+        "Che offre una visione panoramica completa dell'ambiente circostante"
+      ]
+    },
+    {
+      "id": 124,
+      "word": "alienazione",
+      "definition": "Condizione di estraneità dell'individuo rispetto a sé stesso, al proprio lavoro o alla società in cui vive",
+      "distractors": [
+        "Stato di piena realizzazione personale raggiunta attraverso il lavoro creativo",
+        "Processo di integrazione graduale dell'individuo in una nuova comunità",
+        "Sentimento di appartenenza forte e radicata a un gruppo o a una tradizione"
+      ]
+    },
+    {
+      "id": 125,
+      "word": "reificazione",
+      "definition": "Processo per cui relazioni umane, idee o persone vengono trattate come oggetti o cose manipolabili",
+      "distractors": [
+        "Processo di attribuzione di valore simbolico a oggetti materiali privi di vita",
+        "Tendenza a umanizzare le macchine attribuendo loro sentimenti e intenzioni",
+        "Recupero della dimensione personale in sistemi burocratici impersonali"
+      ]
+    },
+    {
+      "id": 126,
+      "word": "paradigma",
+      "definition": "Modello di riferimento condiviso da una comunità scientifica che orienta la ricerca in una determinata epoca",
+      "distractors": [
+        "Insieme di errori sistematici che una disciplina tende a ripetere nel tempo",
+        "Teoria rivoluzionaria proposta da un singolo studioso contro il pensiero dominante",
+        "Metodo sperimentale standardizzato per verificare ipotesi in laboratorio"
+      ]
+    },
+    {
+      "id": 127,
+      "word": "sublimazione",
+      "definition": "Meccanismo psichico per cui impulsi primitivi o inaccettabili vengono trasformati in attività socialmente elevate",
+      "distractors": [
+        "Processo chimico per cui una sostanza solida passa direttamente allo stato gassoso",
+        "Tecnica terapeutica che mira a rendere consci i desideri rimossi nell'inconscio",
+        "Tendenza a reprimere completamente un impulso fino a farlo scomparire"
+      ]
+    },
+    {
+      "id": 128,
+      "word": "rizomatico",
+      "definition": "Che si sviluppa senza centro né gerarchia, con connessioni molteplici e imprevedibili in ogni direzione",
+      "distractors": [
+        "Che segue una struttura ad albero con una radice unica e rami ordinati",
+        "Che procede in modo lineare e sequenziale da una premessa a una conclusione",
+        "Che si organizza attorno a un nucleo centrale da cui tutto dipende"
+      ]
+    },
+    {
+      "id": 129,
+      "word": "decostruzione",
+      "definition": "Metodo critico che smonta le opposizioni concettuali di un testo per rivelarne le contraddizioni e i presupposti nascosti",
+      "distractors": [
+        "Tecnica di analisi che ricerca il significato originario e autentico di un testo",
+        "Approccio interpretativo che cerca l'intenzione dell'autore come chiave del testo",
+        "Metodo ermeneutico che ricostruisce il contesto storico di un'opera letteraria"
+      ]
+    },
+    {
+      "id": 130,
+      "word": "logocentrismo",
+      "definition": "Tendenza del pensiero occidentale a privilegiare la parola razionale e la presenza come fondamento della verità",
+      "distractors": [
+        "Approccio filosofico che pone il corpo e l'esperienza sensoriale al centro della conoscenza",
+        "Tendenza a costruire sistemi di pensiero fondati sull'emozione piuttosto che sulla logica",
+        "Corrente che valorizza il silenzio e l'indicibile come forme superiori di sapere"
+      ]
+    },
+    {
+      "id": 131,
+      "word": "biopolitica",
+      "definition": "Insieme di strategie con cui il potere moderno governa e disciplina la vita biologica delle popolazioni",
+      "distractors": [
+        "Politica ambientale volta alla protezione degli ecosistemi e della biodiversità",
+        "Studio dei comportamenti animali applicato per comprendere le dinamiche politiche umane",
+        "Branca della medicina che si occupa delle implicazioni etiche della ricerca genetica"
+      ]
+    },
+    {
+      "id": 132,
+      "word": "straniamento",
+      "definition": "Tecnica artistica che rende strano e insolito il familiare per indurre nello spettatore distanza critica e riflessione",
+      "distractors": [
+        "Tecnica narrativa che immerge completamente il lettore nella realtà del personaggio",
+        "Effetto emotivo prodotto da un'opera che porta alla piena identificazione con i protagonisti",
+        "Procedimento stilistico che rende più comprensibile un contenuto complesso e astratto"
+      ]
+    },
+    {
+      "id": 133,
+      "word": "metonimia",
+      "definition": "Figura retorica che sostituisce un termine con un altro a esso contiguo per causa, materia, contenitore o simbolo",
+      "distractors": [
+        "Figura retorica che usa la parte per il tutto o il tutto per la parte",
+        "Figura retorica che afferma qualcosa negandone il contrario",
+        "Figura retorica che trasferisce un attributo dal suo sostantivo naturale a un altro"
+      ]
+    },
+    {
+      "id": 134,
+      "word": "metafora",
+      "definition": "Sostituzione di un termine con un altro basata su un rapporto di somiglianza implicita, senza termini di paragone",
+      "distractors": [
+        "Paragone esplicito tra due elementi introdotto da «come» o «simile a»",
+        "Uso di un nome proprio per indicare un'intera categoria di persone simili",
+        "Espressione che dice il contrario di ciò che intende per ottenere un effetto ironico"
+      ]
+    },
+    {
+      "id": 135,
+      "word": "anafora",
+      "definition": "Ripetizione della stessa parola o gruppo di parole all'inizio di versi o frasi consecutive",
+      "distractors": [
+        "Ripetizione della stessa parola alla fine di versi o frasi consecutive",
+        "Inversione dell'ordine normale e atteso delle parole nella frase",
+        "Figura retorica in cui un'unità testuale inizia e termina con la stessa parola"
+      ]
+    },
+    {
+      "id": 136,
+      "word": "iperbole",
+      "definition": "Esagerazione intenzionale e vistosa usata per amplificare o sminuire un concetto oltre ogni misura reale",
+      "distractors": [
+        "Figura retorica che afferma qualcosa attenuandola o negandone il contrario",
+        "Affermazione di un concetto attraverso la negazione del suo opposto",
+        "Accostamento di elementi opposti per creare un effetto di sorpresa"
+      ]
+    },
+    {
+      "id": 137,
+      "word": "ossimoro",
+      "definition": "Accostamento di due termini di significato contraddittorio che insieme creano un'immagine paradossale",
+      "distractors": [
+        "Sostituzione di un termine crudo con uno più delicato e accettabile",
+        "Ripetizione di concetti già espressi con parole diverse senza aggiungere nulla",
+        "Uso di un termine in senso figurato basato su una relazione di somiglianza"
+      ]
+    },
+    {
+      "id": 138,
+      "word": "apostrofe",
+      "definition": "Rivolgimento improvviso del discorso a un interlocutore assente, a una cosa o a un'entità astratta",
+      "distractors": [
+        "Interruzione brusca del discorso lasciato volutamente in sospeso",
+        "Inserimento di una frase esplicativa all'interno di un'altra frase",
+        "Ripresa di un'idea già espressa per rafforzarla con nuovi argomenti"
+      ]
+    },
+    {
+      "id": 139,
+      "word": "allegoria",
+      "definition": "Racconto o immagine in cui personaggi e situazioni concrete rappresentano sistematicamente concetti astratti",
+      "distractors": [
+        "Brevissima narrazione con morale esplicita rivolta a un pubblico popolare",
+        "Citazione nascosta di un testo precedente riconoscibile solo dai lettori colti",
+        "Descrizione dettagliata e minuziosa di un oggetto, un luogo o una persona"
+      ]
+    },
+    {
+      "id": 140,
+      "word": "ellissi",
+      "definition": "Omissione di uno o più elementi della frase che il contesto permette di recuperare facilmente",
+      "distractors": [
+        "Aggiunta di parole superflue che non arricchiscono il significato del testo",
+        "Ripetizione enfatica di un termine in posizioni diverse all'interno della frase",
+        "Sostituzione di un concetto con una sua descrizione indiretta e perifrasetica"
+      ]
+    },
+    {
+      "id": 141,
+      "word": "allitterazione",
+      "definition": "Ripetizione dello stesso suono o gruppo di suoni all'inizio di parole vicine per effetto musicale",
+      "distractors": [
+        "Ripetizione della stessa parola a distanza ravvicinata per enfasi",
+        "Assonanza tra le vocali finali di due versi o emisticchi",
+        "Accordo tra i suoni finali di due o più parole in posizione di rima"
+      ]
+    },
+    {
+      "id": 142,
+      "word": "perifrasi",
+      "definition": "Sostituzione di un termine diretto con una locuzione più lunga che ne descrive la natura o le qualità",
+      "distractors": [
+        "Sostituzione di un termine con uno più breve e incisivo per concisione",
+        "Ripetizione di un concetto con sinonimi per amplificarne il significato",
+        "Uso di un nome proprio al posto di un termine comune per nobilitarlo"
+      ]
+    },
+    {
+      "id": 143,
+      "word": "onomatopea",
+      "definition": "Parola che imita foneticamente il suono della cosa o dell'azione che designa",
+      "distractors": [
+        "Parola inventata dall'autore senza alcun riferimento a suoni reali",
+        "Termine che ha assunto nel tempo un significato opposto a quello originario",
+        "Parola straniera entrata in italiano senza adattamento fonetico"
+      ]
+    },
+    {
+      "id": 144,
+      "word": "aposiopesi",
+      "definition": "Interruzione brusca e voluta del discorso che rimane in sospeso, lasciando al lettore di completare il pensiero",
+      "distractors": [
+        "Conclusione enfatica che ribadisce con forza il punto centrale del discorso",
+        "Passaggio rapido e improvviso da un argomento a un altro senza collegamento",
+        "Ripresa del filo del discorso dopo una lunga digressione secondaria"
+      ]
+    },
+    {
+      "id": 145,
+      "word": "climax",
+      "definition": "Gradazione ascendente in cui termini o concetti sono disposti in ordine di intensità crescente",
+      "distractors": [
+        "Gradazione discendente in cui si parte dall'elemento più forte per arrivare al più debole",
+        "Accostamento caotico di elementi eterogenei senza ordine né gerarchia",
+        "Ripetizione della stessa idea con parole diverse allo stesso livello di intensità"
+      ]
+    },
+    {
+      "id": 146,
+      "word": "antitesi",
+      "definition": "Accostamento di concetti, parole o frasi di significato opposto per creare un contrasto netto ed efficace",
+      "distractors": [
+        "Accostamento di due termini contraddittori che insieme formano un'immagine paradossale",
+        "Figura che nega un concetto per affermare il suo opposto in modo attenuato",
+        "Ripetizione di un termine con significati diversi nella stessa frase"
+      ]
     }
   ]
 }
