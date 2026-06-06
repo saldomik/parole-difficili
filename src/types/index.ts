@@ -11,16 +11,11 @@ export interface Question {
   correctAnswer: string;
 }
 
-export type AnswerStatus = "unanswered" | "correct" | "wrong";
+export interface QuestionResult {
+  word: string;
+  correctAnswer: string;
+  userAnswer: string | null;
+  status: "correct" | "wrong" | "timeout";
+}
 
 export type GameStatus = "idle" | "playing" | "finished";
-
-export interface GameState {
-  status: GameStatus;
-  questions: Question[];
-  currentIndex: number;
-  score: number;
-  selectedAnswer: string | null;
-  answerStatus: AnswerStatus;
-  results: AnswerStatus[];
-}
