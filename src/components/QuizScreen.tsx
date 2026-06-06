@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import type { Question, QuestionResult } from "../types";
 import ProgressBar from "./ProgressBar";
+import { playCorrectSound } from "../utils/sounds";
 
 interface Props {
   questions: Question[];
@@ -9,7 +10,7 @@ interface Props {
 
 type OptionState = "idle" | "selected-correct" | "selected-wrong" | "reveal-correct";
 
-const QUESTION_TIME = 20;
+const QUESTION_TIME = 60;
 
 const STREAK_MILESTONES: Record<number, string> = {
   3: "🔥 Tripletta!",
@@ -102,7 +103,10 @@ export default function QuizScreen({ questions, onFinish }: Props) {
         status: isCorrect ? "correct" : "wrong",
       },
     ]);
-    if (isCorrect) setShowBurst(true);
+    if (isCorrect) {
+      setShowBurst(true);
+      playCorrectSound();
+    }
   }
 
   function handleNext() {

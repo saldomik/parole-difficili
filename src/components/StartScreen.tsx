@@ -40,6 +40,16 @@ export default function StartScreen({ onStart, wordCount }: Props) {
             </div>
           </div>
           <div className="flex items-start gap-3">
+            <span className="text-xl mt-0.5">⏱</span>
+            <div>
+              <p className="text-white font-semibold text-sm">Un minuto per risposta</p>
+              <p className="text-slate-400 text-sm">
+                Hai 60 secondi per ogni domanda. Il timer cambia colore
+                quando il tempo si avvicina alla scadenza.
+              </p>
+            </div>
+          </div>
+          <div className="flex items-start gap-3">
             <span className="text-xl mt-0.5">⚡</span>
             <div>
               <p className="text-white font-semibold text-sm">Selezione casuale</p>
