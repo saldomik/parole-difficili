@@ -1699,6 +1699,166 @@
         "Discorso involontariamente goffo e impacciato per scarsa padronanza della lingua",
         "Stile colloquiale e disinvolto tipico della comunicazione informale quotidiana"
       ]
+    },
+    {
+      "id": 171,
+      "word": "inferenza",
+      "definition": "Conclusione ricavata logicamente da premesse date, per via deduttiva o induttiva",
+      "distractors": [
+        "Premessa implicita da cui un ragionamento trae la propria validità apparente",
+        "Tecnica retorica per presentare un'opinione come se fosse un fatto accertato",
+        "Processo di verifica empirica di un'ipotesi attraverso l'osservazione sistematica"
+      ]
+    },
+    {
+      "id": 172,
+      "word": "sillogismo",
+      "definition": "Ragionamento deduttivo composto da due premesse e una conclusione che ne deriva necessariamente",
+      "distractors": [
+        "Dimostrazione che procede mostrando l'impossibilità logica del contrario",
+        "Ragionamento che parte da casi particolari per ricavarne una legge generale",
+        "Argomentazione in cui premessa e conclusione si supportano a vicenda circolarmente"
+      ]
+    },
+    {
+      "id": 173,
+      "word": "abduzione",
+      "definition": "Forma di ragionamento che inferisce la spiegazione più plausibile a partire da un fatto sorprendente o anomalo",
+      "distractors": [
+        "Processo che applica una legge generale a un caso particolare per derivarne la conclusione",
+        "Forma di ragionamento che generalizza a partire da un insieme di casi osservati",
+        "Metodo che confuta un'ipotesi mostrando un caso che la contraddice"
+      ]
+    },
+    {
+      "id": 174,
+      "word": "antinomia",
+      "definition": "Contraddizione tra due principi ugualmente validi e dimostrabili che si escludono a vicenda",
+      "distractors": [
+        "Principio che stabilisce la precedenza logica di una proposizione su un'altra",
+        "Accordo apparente tra tesi opposte ottenuto attraverso una distinzione semantica",
+        "Errore di ragionamento nato dalla confusione involontaria tra due concetti affini"
+      ]
+    },
+    {
+      "id": 175,
+      "word": "sofisma",
+      "definition": "Ragionamento apparentemente corretto ma costruito deliberatamente per ingannare e trarre in errore",
+      "distractors": [
+        "Argomento valido ma difficile da comprendere per chi non ha formazione logica",
+        "Dimostrazione rigorosa di una tesi controintuitiva ma matematicamente corretta",
+        "Ragionamento circolare in cui la conclusione è già contenuta nelle premesse"
+      ]
+    },
+    {
+      "id": 176,
+      "word": "entimema",
+      "definition": "Sillogismo con una premessa sottintesa, ritenuta ovvia o già condivisa dall'interlocutore",
+      "distractors": [
+        "Sillogismo composto da tre premesse esplicite anziché dalle due canoniche",
+        "Conclusione enunciata prima delle premesse da cui logicamente deriva",
+        "Ragionamento in cui la premessa principale è volutamente errata per confondere"
+      ]
+    },
+    {
+      "id": 177,
+      "word": "assioma",
+      "definition": "Proposizione assunta come vera senza dimostrazione, posta a fondamento di un sistema logico o matematico",
+      "distractors": [
+        "Proposizione ricavata per dimostrazione rigorosa a partire da principi già accettati",
+        "Affermazione di senso comune talmente ovvia da non richiedere né prova né assunzione",
+        "Legge empirica ricavata dall'osservazione sistematica di un gran numero di casi"
+      ]
+    },
+    {
+      "id": 178,
+      "word": "eristica",
+      "definition": "Arte della disputa volta a prevalere sull'avversario piuttosto che a ricercare la verità",
+      "distractors": [
+        "Studio sistematico delle fallacie logiche per imparare a evitarle nel ragionamento",
+        "Metodo dialettico di ricerca della verità attraverso il confronto tra tesi opposte",
+        "Pratica argomentativa fondata sulla ricerca di premesse condivise con l'interlocutore"
+      ]
+    },
+    {
+      "id": 179,
+      "word": "entropia",
+      "definition": "Misura del disordine di un sistema; tendenza irreversibile di ogni sistema isolato verso il massimo disordine possibile",
+      "distractors": [
+        "Capacità di un sistema di assorbire energia esterna senza modificare la propria struttura interna",
+        "Proprietà di un sistema di tornare spontaneamente all'equilibrio dopo una perturbazione",
+        "Misura dell'energia disponibile in un sistema per compiere lavoro utile"
+      ]
+    },
+    {
+      "id": 180,
+      "word": "autopoiesi",
+      "definition": "Proprietà dei sistemi viventi di produrre e mantenere continuamente se stessi come unità organizzate autonome",
+      "distractors": [
+        "Processo per cui un organismo si adatta progressivamente all'ambiente modificando la propria struttura",
+        "Capacità di un sistema di replicare fedelmente le proprie componenti senza variazioni",
+        "Tendenza di un sistema complesso a espandersi consumando le risorse del proprio ambiente"
+      ]
+    },
+    {
+      "id": 181,
+      "word": "frattale",
+      "definition": "Struttura geometrica che si ripete con la stessa forma a qualsiasi scala di osservazione, dal grande al piccolo",
+      "distractors": [
+        "Figura geometrica che non può essere descritta dalla geometria euclidea tradizionale",
+        "Curva matematica che divide il piano in due regioni di area uguale e simmetrica",
+        "Superficie tridimensionale con curvatura costante in ogni suo punto"
+      ]
+    },
+    {
+      "id": 182,
+      "word": "isomorfismo",
+      "definition": "Corrispondenza strutturale tra sistemi diversi che ne rivela l'equivalenza formale indipendentemente dalla natura dei componenti",
+      "distractors": [
+        "Processo di trasformazione progressiva di un sistema in un altro per sostituzione graduale delle parti",
+        "Proprietà di due sistemi di evolversi in modo parallelo pur partendo da condizioni diverse",
+        "Tendenza di strutture diverse a convergere verso la stessa forma per effetto dell'ambiente"
+      ]
+    },
+    {
+      "id": 183,
+      "word": "stocastico",
+      "definition": "Detto di fenomeno o processo governato dalla probabilità, non interamente determinabile ma descrivibile statisticamente",
+      "distractors": [
+        "Detto di sistema il cui comportamento futuro è interamente determinato dalle condizioni iniziali",
+        "Detto di processo che si ripete identico a intervalli regolari e prevedibili",
+        "Detto di modello matematico che esclude qualsiasi elemento di variabilità casuale"
+      ]
+    },
+    {
+      "id": 184,
+      "word": "sincronicità",
+      "definition": "Coincidenza significativa di eventi privi di nesso causale, interpretata da Jung come principio di connessione acausale",
+      "distractors": [
+        "Coincidenza di eventi causalmente collegati che si verificano contemporaneamente",
+        "Capacità di due individui di coordinare le proprie azioni senza comunicazione esplicita",
+        "Fenomeno per cui eventi simili tendono a ripetersi in cicli regolari e prevedibili"
+      ]
+    },
+    {
+      "id": 185,
+      "word": "sinergismo",
+      "definition": "Interazione di due o più elementi che produce un effetto complessivo superiore alla somma dei singoli contributi",
+      "distractors": [
+        "Conflitto tra due agenti che si annullano vicendevolmente riducendo l'effetto totale",
+        "Processo per cui un fattore amplifica l'effetto di un altro senza che il contrario avvenga",
+        "Tendenza di sistemi complessi a dividersi in componenti sempre più specializzate"
+      ]
+    },
+    {
+      "id": 186,
+      "word": "olismo",
+      "definition": "Concezione secondo cui le proprietà di un sistema non sono riducibili alla somma delle singole parti che lo compongono",
+      "distractors": [
+        "Approccio che spiega i fenomeni complessi riconducendoli alle proprietà delle componenti elementari",
+        "Dottrina che considera l'individuo come unità indivisibile irriducibile a qualsiasi fattore esterno",
+        "Metodo scientifico che isola le variabili per studiarne l'effetto singolo in condizioni controllate"
+      ]
     }
   ]
 }
